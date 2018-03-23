@@ -83,12 +83,12 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1521847237983">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1521848000592">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="14" />
-        <mark key="^" line="72" column="14" />
-        <mark key="." line="72" column="14" />
+        <mark key="[" line="76" column="127" />
+        <mark key="]" line="76" column="126" />
+        <mark key="^" line="76" column="126" />
+        <mark key="." line="76" column="126" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
         <mark key="[" line="20" column="16" />
@@ -134,11 +134,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>GetAccessResponse</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>GetAccessResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
