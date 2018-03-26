@@ -8,6 +8,7 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adaptiveinsights/coordinator-core/1.4.8/b05935dc2b41318dd949b2976497b5300b3084b6/coordinator-core-1.4.8-sources.jar!/com/adaptiveinsights/coordination/Coordinator.java" timestamp="1522096415455" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/DACProtoConverter.java" timestamp="1522093815720" />
       <file name="/a.dummy" timestamp="1521572093075">
         <mark key="[" line="0" column="0" />
@@ -33,6 +34,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-client/src/main/java/com/adaptiveinsights/metadataservice/client/task/GetAccessTaskDefinition.java" timestamp="1522095900439" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1521826922447">
         <mark key="[" line="25" column="13" />
         <mark key="]" line="25" column="13" />
@@ -62,13 +64,13 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1522095187664">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1522096073548">
         <mark key="[" line="72" column="8" />
         <mark key="]" line="72" column="14" />
         <mark key="." line="72" column="14" />
         <mark key="^" line="72" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522094975646" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522096221958" />
       <file name="/Dummy.txt" timestamp="1521586887604">
         <mark key="[" line="0" column="0" />
       </file>
