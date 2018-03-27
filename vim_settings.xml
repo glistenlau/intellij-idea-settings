@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1522102490194">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/AccessRegionsWorkerRESTController.java" timestamp="1522190597936">
         <mark key="[" line="78" column="8" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
@@ -78,11 +78,11 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522189445588">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="79" column="12" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522191135786">
+        <mark key="[" line="87" column="24" />
+        <mark key="]" line="79" column="113" />
+        <mark key="." line="79" column="113" />
+        <mark key="^" line="79" column="113" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
@@ -109,10 +109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HttpResponse</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
@@ -121,34 +121,34 @@
         <text encoding="base64">ICAgICAgICBjb2wgPSBDZWxsUmVmZXJlbmNlLmNvbnZlcnRDb2xTdHJpbmdUb0luZGV4KCJDIik7CiAgICAgICAgdmVyaWZ5Q2VsbFZhbHVlKHNoZWV0LCBBY2Nlc3NSZWdpb25Nb2RlbEltcG9ydC5GSUVMRFNfUk9XX0lOREVYLCBjb2wsICJHcm91cCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgKEJ1ZmZlcmVkUmVhZGVyIGJ1ZmZlcmVkUmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKGlucHV0U3RyZWFtUmVhZGVyKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSAoSW5wdXRTdHJlYW1SZWFkZXIgaW5wdXRTdHJlYW1SZWFkZXIgPSBuZXcgSW5wdXRTdHJlYW1SZWFkZXIocmVzcG9uc2UuZ2V0RW50aXR5KCkuZ2V0Q29udGVudCgpKSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmNsb3NlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW1SZWFkZXIuYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuY2xvc2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzdHJpbmdCdWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmNsb3NlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW1SZWFkZXIuYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
