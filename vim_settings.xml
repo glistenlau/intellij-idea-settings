@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/bin/main/log4j2.xml" timestamp="1522201505207" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522201034153">
         <mark key="[" line="119" column="59" />
       </file>
