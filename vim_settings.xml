@@ -78,11 +78,11 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522197963809">
-        <mark key="[" line="152" column="140" />
-        <mark key="]" line="153" column="37" />
-        <mark key="." line="153" column="37" />
-        <mark key="^" line="153" column="37" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522200404485">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
@@ -109,10 +109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNvbm4uUG9vbGluZ0NsaWVudENvbm5lY3Rpb25NYW5hZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>public CloseableHttpClient httpClient;</text>
+        <text>All</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
@@ -121,38 +121,34 @@
         <text>********</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5pbXBsLmNvbm4uUG9vbGluZ0NsaWVudENvbm5lY3Rpb25NYW5hZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBDbGllbnRzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5IdHRwUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudHMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUG9vbGluZ0NsaWVudENvbm5lY3Rpb25NYW5hZ2VyIGNvbm5lY3Rpb25NYW5hZ2VyID0gbmV3IFBvb2xpbmdDbGllbnRDb25uZWN0aW9uTWFuYWdlcigpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>finally {
-                        inputStream.close();
-                    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cENsaWVudC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IGVudGl0eS5nZXRDb250ZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>finally {
-                response.close();
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5IdHRwUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IHN1bSA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW07Cg==</text>
       </register>
     </registers>
     <search>
