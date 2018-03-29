@@ -71,6 +71,12 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/resources/application.properties" timestamp="1522360007535">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1522174127334">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,11 +101,11 @@
       <jump line="75" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1000 # Maximum number of worker threads.</text>
       </register>
       <register name="-" type="4">
-        <text>dateFormat</text>
+        <text>1000 # Maximum number of worker threads.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVcPg==</text>
