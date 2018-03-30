@@ -40,11 +40,11 @@
         <mark key="^" line="174" column="77" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsTestInstanceState.java" timestamp="1522444951524" />
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522451714590">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522452425344">
         <mark key="[" line="13" column="4" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-        <mark key="^" line="57" column="43" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
@@ -121,6 +121,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenarios.java" timestamp="1522452480701">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1522174127334">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,7 +147,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNZHNTY2VuYXJpb1N0YXRlLlNjZW5hcmlvcy5QSU5ORURfTFZMX1RBUkdFVF9BQ0NUX1ZFUi5nZXRQaW5uZWRMaXN0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>JasonArry</text>
@@ -153,34 +159,34 @@
         <text encoding="base64">ICAgICAgICBNZHNTY2VuYXJpb1N0YXRlLlNjZW5hcmlvcy5QSU5ORURfTFZMX1RBUkdFVF9BQ0NUX1ZFUi5nZXRQaW5uZWRMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlubmVkTGlzdCA9IGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRlc3QgPSBjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgpLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueUNvZGU7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdCgKICAgICAgICAgICAgICAgICAgICBuZXcgTW9kZWxFbGVtZW50VmFsdWVMaXN0KEFSTW9kZWxFbGVtZW50LkxFVkVMX01PREVMX0VMRU1FTlQsIDEpLAogICAgICAgICAgICAgICAgICAgIG5ldyBNb2RlbEVsZW1lbnRWYWx1ZUxpc3QoQVJNb2RlbEVsZW1lbnQuVkVSU0lPTl9NT0RFTF9FTEVNRU5ULCA3KQogICAgICAgICAgICApLAogICAgICAgICAgICBBcnJheXMuYXNMaXN0KAogICAgICAgICAgICAgICAgICAgIEFSTW9kZWxFbGVtZW50LkFDQ09VTlRfTU9ERUxfRUxFTUVOVAogICAgICAgICAgICApCiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlubmVkTGlzdCA9IGoK</text>
       </register>
     </registers>
     <search>
