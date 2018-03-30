@@ -24,6 +24,11 @@
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1522372185276">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilter.java" timestamp="1522173370309">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="31" column="0" />
@@ -59,11 +64,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/gradle.properties" timestamp="1522369000912">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="97" />
-        <mark key="." line="19" column="97" />
-        <mark key="^" line="19" column="97" />
+      <file name="$USER_HOME$/Developer/metadataservice/gradle.properties" timestamp="1522372201257">
+        <mark key="[" line="19" column="98" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
         <mark key="[" line="20" column="16" />
@@ -108,7 +113,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgK</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgzMmciXQo=</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -120,34 +125,34 @@
         <text encoding="base64">ICAgICAgICBjb2wgPSBDZWxsUmVmZXJlbmNlLmNvbnZlcnRDb2xTdHJpbmdUb0luZGV4KCJDIik7CiAgICAgICAgdmVyaWZ5Q2VsbFZhbHVlKHNoZWV0LCBBY2Nlc3NSZWdpb25Nb2RlbEltcG9ydC5GSUVMRFNfUk9XX0lOREVYLCBjb2wsICJHcm91cCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgK</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgzMmciXQo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgxNmciXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBkYXRlRm9ybWF0ID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKHRpbWVQYXR0ZXJuKTsK</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgxNmciXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5ub3coKS50b1MK</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5ub3coKS50b1MK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBkYXRlRm9ybWF0ID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKHRpbWVQYXR0ZXJuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5ub3coKS50b1MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZS5ub3coKS50b1MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaHR0cC5OYW1lVmFsdWVQYWlyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0Owo=</text>
       </register>
     </registers>
     <search>
@@ -194,6 +199,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
