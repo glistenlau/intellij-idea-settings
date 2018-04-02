@@ -14,8 +14,17 @@
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1522701947753">
-        <mark key="[" line="179" column="18" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilter.java" timestamp="1522705456798">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1522705186069">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -23,9 +32,11 @@
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilterDTO.java" timestamp="1522440665102">
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilterDTO.java" timestamp="1522705547210">
+        <mark key="[" line="53" column="123" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1522088236664">
         <mark key="[" line="170" column="157" />
@@ -39,23 +50,23 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522457139127">
-        <mark key="[" line="159" column="101" />
-        <mark key="]" line="159" column="101" />
-        <mark key="^" line="159" column="135" />
-        <mark key="." line="159" column="101" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1522705816080">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="14" />
+        <mark key="^" line="47" column="14" />
+        <mark key="." line="47" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1522704150023">
-        <mark key="[" line="32" column="16" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1522705741432">
+        <mark key="[" line="48" column="113" />
         <mark key="]" line="32" column="16" />
         <mark key="." line="32" column="16" />
         <mark key="^" line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522703676403">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
-        <mark key="^" line="34" column="27" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522705838836">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="101" column="11" />
+        <mark key="." line="101" column="11" />
+        <mark key="^" line="101" column="11" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
@@ -72,7 +83,7 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522704451822">
+      <file name="/Dummy.txt" timestamp="1522706072409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/api/IAccessRegionsProtobufAPI.java" timestamp="1522354431281">
@@ -157,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -169,31 +180,37 @@
         <text encoding="base64">ICAgICAgICBNZHNTY2VuYXJpb1N0YXRlLlNjZW5hcmlvcy5QSU5ORURfTFZMX1RBUkdFVF9BQ0NUX1ZFUi5nZXRQaW5uZWRMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS51bWQuY3MuZmluZGJ1Z3MuYW5ub3RhdGlvbnMuU3VwcHJlc3NGQldhcm5pbmdzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="2" type="8">
+        <text>public
+public
+public
+public</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRVcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNyZWF0ZSBlbnVtIik7Cg==</text>
+      <register name="4" type="4">
+        <text>@SuppressFBWarnings(
+        value = &quot;URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD&quot;, 
+        justification = &quot;The state will pass to jmh benchmarks which put it as argument, seems FB can't understand that.&quot;
+)</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBCZW5jaG1hcmsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRVcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCZW5jaG1hcmsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNyZWF0ZSBlbnVtIik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
