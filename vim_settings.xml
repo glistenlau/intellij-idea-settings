@@ -21,12 +21,17 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/performance/parameters/AccountParameters.java" timestamp="1522692628940" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/api/IAccessRegionsProtobufAPI.java" timestamp="1522102244765">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="9" />
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceExceptionHandler.java" timestamp="1522971094254">
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="63" />
+        <mark key="." line="41" column="63" />
+        <mark key="^" line="41" column="63" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1522876403151">
         <mark key="[" line="132" column="22" />
@@ -117,7 +122,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBlLnN0YWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -129,34 +134,34 @@
         <text encoding="base64">ICAgICAgICBjb2wgPSBDZWxsUmVmZXJlbmNlLmNvbnZlcnRDb2xTdHJpbmdUb0luZGV4KCJDIik7CiAgICAgICAgdmVyaWZ5Q2VsbFZhbHVlKHNoZWV0LCBBY2Nlc3NSZWdpb25Nb2RlbEltcG9ydC5GSUVMRFNfUk9XX0lOREVYLCBjb2wsICJHcm91cCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBlLnN0YWNrCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ZmMwYzdiNTExOTM4ZTZlYTdkODY3MWEwNzIwODdjZTg2MTA0YjMxCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgzMmciXQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiA2ZmMwYzdiNTExOTM4ZTZlYTdkODY3MWEwNzIwODdjZTg2MTA0YjMxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgxNmciXQo=</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgzMmciXQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgxNmciXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgK</text>
+        <text encoding="base64">ICAgIGp2bUFyZ3MgPSBbIi1YbXgxNmciXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5qdm1hcmdzPS1YbXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBkYXRlRm9ybWF0ID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKHRpbWVQYXR0ZXJuKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5mb3JtYXQuRGF0ZVRpbWVGb3JtYXR0ZXI7Cg==</text>
       </register>
     </registers>
     <search>
