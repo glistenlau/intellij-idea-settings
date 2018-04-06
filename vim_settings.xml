@@ -28,11 +28,11 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1522705186069">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="71" column="11" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523044168477">
+        <mark key="[" line="125" column="9" />
+        <mark key="]" line="208" column="41" />
+        <mark key="." line="208" column="41" />
+        <mark key="^" line="208" column="41" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -58,6 +58,7 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523042636346" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523041033348">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
@@ -176,11 +177,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenarios.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ2hhcnNldDsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -189,40 +190,40 @@
         <text encoding="base64">ICAgICAgICBNZHNTY2VuYXJpb1N0YXRlLlNjZW5hcmlvcy5QSU5ORURfTFZMX1RBUkdFVF9BQ0NUX1ZFUi5nZXRQaW5uZWRMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ2hhcnNldDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBza3VJZDsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmNoYXJzZXQuQ2hhcnNldDsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS51bWQuY3MuZmluZGJ1Z3MuYW5ub3RhdGlvbnMuU3VwcHJlc3NGQldhcm5pbmdzOwo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>public
 public
 public
 public</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>@SuppressFBWarnings(
         value = &quot;URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD&quot;, 
         justification = &quot;The state will pass to jmh benchmarks which put it as argument, seems FB can't understand that.&quot;
 )</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRVcCgpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
     </registers>
     <search>
