@@ -27,11 +27,11 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523056554113">
-        <mark key="[" line="210" column="17" />
-        <mark key="]" line="197" column="20" />
-        <mark key="^" line="197" column="20" />
-        <mark key="." line="197" column="20" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523056741574">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="450" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -39,7 +39,7 @@
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilterDTO.java" timestamp="1522705547210">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilterDTO.java" timestamp="1523056887701">
         <mark key="[" line="53" column="123" />
         <mark key="]" line="54" column="15" />
         <mark key="." line="54" column="15" />
@@ -141,6 +141,12 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDAC.java" timestamp="1523058217366">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="25" column="49" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="16" />
@@ -175,19 +181,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLm1ldGFkYXRhc2VydmljZS5pbXBsLmFjY2Vzc3JlZ2lvbnMuc2VydmljZS5EaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>skuAttrId</text>
+        <text>Ten</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNZHNTY2VuYXJpb1N0YXRlLlNjZW5hcmlvcy5QSU5ORURfTFZMX1RBUkdFVF9BQ0NUX1ZFUi5nZXRQaW5uZWRMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLm1ldGFkYXRhc2VydmljZS5pbXBsLmFjY2Vzc3JlZ2lvbnMuc2VydmljZS5EaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
@@ -195,26 +201,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBUk1vZGVsRWxlbWVudCBkaW0xME1FID0gbmV3IEFSTW9kZWxFbGVtZW50KGRpbWVuc2lvbjEwLCBBUk1vZGVsRWxlbWVudFR5cGUuQ1VTVE9NX0RJTUVOU0lPTik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8zUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owog</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBUk1vZGVsRWxlbWVudCBsdmxBdHRyTUUgPSBuZXcgQVJNb2RlbEVsZW1lbnQobHZsQXR0cklkLCBBUk1vZGVsRWxlbWVudFR5cGUuTEVWRUxfQVRUUklCVVRFKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8yUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBUk1vZGVsRWxlbWVudCBza3VNRSA9IG5ldyBBUk1vZGVsRWxlbWVudChza3VJZCwgQVJNb2RlbEVsZW1lbnRUeXBlLkNVU1RPTV9ESU1FTlNJT04pOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8xUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8wUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8zUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbHZsQXR0ck1FLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8yUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpbnRbXSByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8xUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owog</text>
       </register>
     </registers>
     <search>
