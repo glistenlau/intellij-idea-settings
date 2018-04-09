@@ -27,11 +27,11 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523058545848">
-        <mark key="[" line="409" column="39" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="450" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523296890376">
+        <mark key="[" line="148" column="39" />
+        <mark key="]" line="148" column="38" />
+        <mark key="." line="148" column="38" />
+        <mark key="^" line="148" column="38" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -45,6 +45,7 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
       </file>
+      <file name="/DimensionAttributeFilterState.java" timestamp="1523296884902" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1522088236664">
         <mark key="[" line="170" column="157" />
         <mark key="]" line="170" column="124" />
@@ -178,13 +179,14 @@
       <jump line="75" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilter.java" />
       <jump line="174" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenarios.java" />
+      <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLm1ldGFkYXRhc2VydmljZS5pbXBsLmFjY2Vzc3JlZ2lvbnMuc2VydmljZS5EaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>skuAttrId</text>
       </register>
       <register name="-" type="4">
-        <text>Ten</text>
+        <text>skuAttrId</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -193,34 +195,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLm1ldGFkYXRhc2VydmljZS5pbXBsLmFjY2Vzc3JlZ2lvbnMuc2VydmljZS5EaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8zUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owog</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8yUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodXNlcklkID09IG51bGwgfHwgdmVyc2lvbklkID09IG51bGwgfHwgbHZsQXR0cklkID09IG51bGwgfHwgbHZsQXR0clZhbElkID09IG51bGwpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8xUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8wUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8zUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBEQUNRMlJlc3VsdERUTyByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8yUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFNjZW5hcmlvMlRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Ow==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpbnRbXSByZXN1bHQgPSBzdGF0ZS5hY2Nlc3NSZWdpb25zU2VydmljZS5nZXRBY2Nlc3NEVE8oc3RhdGUudXNlciwgc3RhdGUuZ2V0U2NlbmFyaW8xUGlubmVkTUVWYWx1ZUxpc3QoKSwKICAgICAgICAgICAgICAgIHN0YXRlLmdldFRhcmdldE1FTGlzdCgpKTsKICAgICAgICBzdGF0ZS5udW1SZXN1bHRSb3dzID0gcmVzdWx0LmdldERBQ1Jlc3VsdFNldFNpemUoKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owog</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLm1ldGFkYXRhc2VydmljZS5pbXBsLmFjY2Vzc3JlZ2lvbnMuc2VydmljZS5EaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXI7Cg==</text>
       </register>
     </registers>
     <search>
