@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523394379359">
-        <mark key="[" line="39" column="115" />
-        <mark key="]" line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="40" column="15" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523401537536">
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="35" column="33" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="/a.dummy" timestamp="1523297773371">
         <mark key="[" line="0" column="0" />
@@ -36,11 +36,11 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523398882855">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="291" column="112" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523401515378">
+        <mark key="[" line="169" column="16" />
+        <mark key="]" line="169" column="17" />
+        <mark key="." line="169" column="17" />
+        <mark key="^" line="169" column="17" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -68,7 +68,7 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523394561935" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523400106255" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523041033348">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
@@ -186,11 +186,11 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBjdXN0b21BY2NvdW50SWQgPSAxMTsK</text>
+      <register name="&quot;" type="4">
+        <text>lvlId</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>lvlId</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -199,31 +199,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IE1vZGVsRWxlbWVudFZhbHVlTGlzdChBUk1vZGVsRWxlbWVudC5BQ0NPVU5UX01PREVMX0VMRU1FTlQsIDIwOSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBjdXN0b21BY2NvdW50SWQgPSAxMTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnYuU3lzdGVtRW52aXJvbm1lbnRQcm9wZXJ0eVNvdXJjZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBjdXN0b21BY2NvdW50SWQgPSAxMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbEVsZW1lbnRWYWx1ZUxpc3QgY3VzdG9tQWNjb3VudE1FVmFscyA9IG5ldyBNb2RlbEVsZW1lbnRWYWx1ZUxpc3QoQVJNb2RlbEVsZW1lbnQuQUNDT1VOVF9NT0RFTF9FTEVNRU5ULCBjdXN0b21BY2NvdW50SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
+        <text encoding="base64">ICAgICAgICBNb2RlbEVsZW1lbnRWYWx1ZUxpc3QgY3VzdG9tQWNjb3VudE1FVmFscyA9IG5ldyBNb2RlbEVsZW1lbnRWYWx1ZUxpc3QoQVJNb2RlbEVsZW1lbnQuQUNDT1VOVF9NT0RFTF9FTEVNRU5ULCBjdXN0b21BY2NvdW50SWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gQWNjZXNzQ29udGV4dFdpdGhDYWNoZS5wcmVwYXJlQ29udGV4dCh1c2VySWQsIGNvbXBhbnlDb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB1c2VySWQgPSA0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xBY2NvdW50TUVWYWxzLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gQWNjZXNzQ29udGV4dFdpdGhDYWNoZS5wcmVwYXJlQ29udGV4dCh1c2VySWQsIGNvbXBhbnlDb2RlKTsK</text>
