@@ -65,7 +65,12 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523557480677" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523559684667">
+        <mark key="[" line="261" column="20" />
+        <mark key="]" line="263" column="52" />
+        <mark key="^" line="263" column="52" />
+        <mark key="." line="263" column="52" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523557603043">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
@@ -196,11 +201,11 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5udW1SZXN1bHRDb2x1bW5zID0gcmVzdWx0LmdldENvbHVtbkVsZW1lbnRzKCkubGVuZ3RoOwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>Throughput</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
