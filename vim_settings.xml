@@ -71,7 +71,7 @@
         <mark key="." line="249" column="85" />
         <mark key="^" line="249" column="85" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523567665236">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523656620392">
         <mark key="[" line="28" column="50" />
         <mark key="]" line="28" column="32" />
         <mark key="^" line="28" column="32" />
@@ -161,11 +161,11 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523655335025">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523656766165">
         <mark key="[" line="60" column="44" />
-        <mark key="]" line="60" column="54" />
-        <mark key="^" line="60" column="54" />
-        <mark key="." line="60" column="54" />
+        <mark key="]" line="60" column="44" />
+        <mark key="^" line="60" column="36" />
+        <mark key="." line="60" column="44" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
@@ -208,10 +208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hashCode</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>hashCode</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
