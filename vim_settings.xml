@@ -65,10 +65,11 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523579781374">
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523581676497">
+        <mark key="[" line="247" column="60" />
+        <mark key="]" line="247" column="69" />
+        <mark key="." line="247" column="69" />
+        <mark key="^" line="247" column="69" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523567665236">
         <mark key="[" line="28" column="50" />
@@ -160,11 +161,11 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523579373388">
-        <mark key="[" line="53" column="58" />
-        <mark key="]" line="54" column="58" />
-        <mark key="^" line="54" column="58" />
-        <mark key="." line="54" column="58" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523581585048">
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="55" column="29" />
+        <mark key="^" line="55" column="29" />
+        <mark key="." line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
@@ -204,17 +205,17 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29vcmRBY2Nlc3NNYXAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>hashCodeTime</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>hashCodeTime</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJoYXNoIGNvZGUgdGltZTogIiArIENvb3JkaW5hdGUuaGFzaENvZGVUaW1lKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29vcmRBY2Nlc3NNYXAuCg==</text>
