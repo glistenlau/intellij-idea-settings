@@ -15,6 +15,7 @@
         <mark key="." line="100" column="7" />
         <mark key="^" line="100" column="7" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/cache/AccessRegionLoader.java" timestamp="1523921170240" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/api/IMDSAccessRegionsService.java" timestamp="1522353846703">
         <mark key="[" line="120" column="4" />
         <mark key="]" line="120" column="9" />
@@ -33,14 +34,12 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenarios.java" timestamp="1522456123091">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523920194215">
+        <mark key="[" line="222" column="42" />
+        <mark key="]" line="214" column="106" />
+        <mark key="." line="214" column="106" />
+        <mark key="^" line="214" column="106" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523919012553" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523649204410">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -204,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">CQkgICAgU3lzdGVtLm91dC5wcmluCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -216,34 +215,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">CQkgICAgU3lzdGVtLm91dC5wcmluCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CQkgICAgZGV0YWlsUmVzdWx0LnNpemUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAgICAgcmVzdWx0ICo9IHZhbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBmb3IgKGludCB2YWw6IHZhbHVlcykgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBpbnQgcmVzdWx0ID0gMTsK</text>
+        <text encoding="base64">CSAgICAgICAgcmVzdWx0ICo9IHZhbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLnRvU3RyaW5nKHZhbHVlcykuaGFzaENvZGUoKTsK</text>
+        <text encoding="base64">CSAgICBmb3IgKGludCB2YWw6IHZhbHVlcykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CSAgICBpbnQgcmVzdWx0ID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbnQgcmVzdWx0ID0gMTsK</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLnRvU3RyaW5nKHZhbHVlcykuaGFzaENvZGUoKTsK</text>
       </register>
     </registers>
     <search>
