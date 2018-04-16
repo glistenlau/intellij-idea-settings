@@ -73,11 +73,11 @@
       <file name="/Dummy.txt" timestamp="1523299788432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523903095909">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523915386301">
+        <mark key="[" line="57" column="9" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-proto-impl/src/main/java/com/adaptiveinsights/metadataservice/protobuf/impl/service/AccessRegionsWorkerProtobufImpl.java" timestamp="1522959964025">
         <mark key="[" line="59" column="16" />
@@ -203,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -215,34 +215,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgcmVzdWx0ICo9IHZhbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICBmb3IgKGludCB2YWw6IHZhbHVlcykgewo=</text>
+        <text encoding="base64">CSAgICAgICAgcmVzdWx0ICo9IHZhbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBpbnQgcmVzdWx0ID0gMTsK</text>
+        <text encoding="base64">CSAgICBmb3IgKGludCB2YWw6IHZhbHVlcykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLnRvU3RyaW5nKHZhbHVlcykuaGFzaENvZGUoKTsK</text>
+        <text encoding="base64">CSAgICBpbnQgcmVzdWx0ID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLnRvU3RyaW5nKHZhbHVlcykuaGFzaENvZGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbnQgcmVzdWx0ID0gMTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQlpbnQgcmVzdWx0ID0gMTsK</text>
       </register>
     </registers>
     <search>
