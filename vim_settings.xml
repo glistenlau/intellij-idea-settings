@@ -18,14 +18,12 @@
         <mark key="^" line="165" column="22" />
         <mark key="." line="165" column="22" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/cache/AccessRegionLoader.java" timestamp="1523908882633" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenario.java" timestamp="1522885318790">
         <mark key="[" line="64" column="81" />
         <mark key="]" line="64" column="81" />
         <mark key="." line="64" column="81" />
         <mark key="^" line="68" column="55" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/cache/internal/CompanyCache.java" timestamp="1523908946201" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceWorkerImpl.java" timestamp="1522354301219">
         <mark key="[" line="58" column="61" />
         <mark key="]" line="58" column="61" />
@@ -163,8 +161,8 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523911488396">
-        <mark key="[" line="66" column="34" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523914077187">
+        <mark key="[" line="67" column="11" />
         <mark key="]" line="65" column="32" />
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="32" />
