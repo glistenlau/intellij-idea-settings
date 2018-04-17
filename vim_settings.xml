@@ -54,6 +54,7 @@
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="14" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionQueryBase.java" timestamp="1523993835353" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1522088236664">
         <mark key="[" line="170" column="157" />
         <mark key="]" line="170" column="124" />
@@ -66,14 +67,14 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523991950819">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523994544992">
         <mark key="'" line="233" column="24" />
-        <mark key="[" line="221" column="115" />
-        <mark key="]" line="221" column="115" />
-        <mark key="^" line="221" column="81" />
-        <mark key="." line="221" column="115" />
+        <mark key="[" line="383" column="112" />
+        <mark key="]" line="384" column="11" />
+        <mark key="^" line="384" column="11" />
+        <mark key="." line="384" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523991115047">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523994800159">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="25" column="32" />
@@ -163,13 +164,19 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523994398747">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DacScenarioState.java" timestamp="1523989809341">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DacScenarioState.java" timestamp="1523994744414">
         <mark key="[" line="122" column="16" />
         <mark key="]" line="122" column="17" />
         <mark key="." line="122" column="17" />
@@ -177,7 +184,7 @@
       <file name="/fragment.java" timestamp="1522876223283">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSWorkerAccessRegion.java" timestamp="1523493764363">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSWorkerAccessRegion.java" timestamp="1523994923275">
         <mark key="[" line="151" column="38" />
         <mark key="]" line="148" column="58" />
         <mark key="^" line="148" column="58" />
@@ -204,46 +211,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlcXVhbHMgdGltZTogIiArIENvb3JkaW5hdGUuZXF1YWxzVGltZSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CQkJSW50Q29sbGVjdGlvbiB2ZXJzaW9uSWRzID0gZXhwYW5kZWRWYWx1ZU1hcC5nZXQoQVJNb2RlbEVsZW1lbnQuVkVSU0lPTl9NT0RFTF9FTEVNRU5UKTsgIC8vIG9yaWdpbmFsCQoJCQlmb3IgKGludCB2ZXJzaW9uSWQgOiB2ZXJzaW9uSWRzKSB7CgkJCQkKCQkJCUFSQWNjZXNzVHlwZSBjYXBwZWRBY2Nlc3NUeXBlID0gZ2V0Q2FwcGVkQWNjZXNzVHlwZSh2ZXJzaW9uSWQsIHVhckFjY2Vzc1R5cGUpOwoJCQkJaWYgKGNhcHBlZEFjY2Vzc1R5cGUgPT0gQVJBY2Nlc3NUeXBlLk5PTkUpIHsKCQkJCQlsb2cuZGVidWcoInt9IGhhcyBubyBhY2Nlc3MgdG8ge30iLHVzZXJJZCx2ZXJzaW9uSWQpOwoJCQkJCWNvbnRpbnVlOwoJCQkJfSAKCgkJCQlpbnB1dFt2ZXJzaW9uSW5kZXhdID0gSW50QXJyYXlMaXN0LndyYXAobmV3IGludFtdIHsgdmVyc2lvbklkIH0pOyAvLyBvdmVyd3JpdGluZyBsaXN0IG9mIHZlcnNpb25zIHdpdGggYSBsaXN0IG9mIGEgc2luZ2xlIHZlcnNpb24KCQkJCXNpemVzW3ZlcnNpb25JbmRleF0gPTE7CgkJCQkKCS8vCQkJY29tYmluZShjYXBwZWRBY2Nlc3NUeXBlLCBpbnB1dCwgbmV3IGludFtpbnB1dC5sZW5ndGhdLCAwKTsKCQkJCWNhcnRlc2lhbk5vbnJlY3Vyc2l2ZShpbnB1dCwgY2FwcGVkQWNjZXNzVHlwZSwgdG90YWxDZWxsc1dpdGhvdXRWZXJzaW9uLCBzaXplcyk7CgkJCQkKCQkJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUFYKG9mIGFsbCBkZXRhaWxzKQo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTUFYKG9mIGFsbCBkZXRhaWxzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmptaC5hbm5vdGF0aW9ucy5UaW1lb3V0Owo=</text>
+        <text encoding="base64">CQlwcml2YXRlIHZvaWQgY2FydGVzaWFuTGlzdChBUkEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBxT25lUmVzdWx0ID0gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRbXSBxT25lUmVzdWx0Owo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmptaC5hbm5vdGF0aW9ucy5UaW1lb3V0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocU9uZVJlc3VsdCAhPSBudWxsKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcocU9uZVJlc3VsdCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5wdXQgIiArIGkgKyBpbnB1dFtpXS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBxT25lUmVzdWx0ID0gbnVsbDsK</text>
       </register>
     </registers>
     <search>
