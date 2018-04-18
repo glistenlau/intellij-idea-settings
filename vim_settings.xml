@@ -73,7 +73,7 @@
         <mark key="." line="84" column="11" />
         <mark key="^" line="84" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524012803419">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524014369100">
         <mark key="'" line="233" column="24" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -107,8 +107,10 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524001717742">
+      <file name="/Dummy.txt" timestamp="1524014737726">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
         <mark key="[" line="20" column="16" />
@@ -171,7 +173,7 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1524012472817">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1524014182318">
         <mark key="[" line="122" column="54" />
         <mark key="]" line="122" column="52" />
         <mark key="." line="122" column="52" />
@@ -217,11 +219,11 @@
       <jump line="233" column="24" filename="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZWluc2lnaHRzLmNvcmUuZXhjZXB0aW9uLkFQRXhjZXB0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Optimize for q2.</text>
       </register>
       <register name="-" type="4">
-        <text>coordinate</text>
+        <text>Optimize for q2.</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
