@@ -34,12 +34,6 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1523922132690">
-        <mark key="[" line="222" column="42" />
-        <mark key="]" line="214" column="106" />
-        <mark key="." line="214" column="106" />
-        <mark key="^" line="214" column="106" />
-      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523649204410">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -73,11 +67,8 @@
       <file name="/Dummy.txt" timestamp="1523299788432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1523915386301">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="21" />
-        <mark key="^" line="58" column="21" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1524013981985">
+        <mark key="[" line="120" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-proto-impl/src/main/java/com/adaptiveinsights/metadataservice/protobuf/impl/service/AccessRegionsWorkerProtobufImpl.java" timestamp="1522959964025">
         <mark key="[" line="59" column="16" />
