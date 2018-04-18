@@ -60,7 +60,11 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524022545457" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524023696938">
+        <mark key="[" line="233" column="54" />
+        <mark key="]" line="233" column="54" />
+        <mark key="." line="233" column="54" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1523041033348">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="14" />
@@ -179,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>cur</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cur</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
