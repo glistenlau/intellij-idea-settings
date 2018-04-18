@@ -130,6 +130,11 @@
         <mark key="^" line="59" column="56" />
         <mark key="." line="59" column="56" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/test/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/TestAccessRegionsServiceDACLiteImpl.java" timestamp="1524020624924">
+        <mark key="[" line="147" column="18" />
+        <mark key="]" line="147" column="18" />
+        <mark key="." line="147" column="18" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/api/IMDSAccessRegionsService.java" timestamp="1522353846703">
         <mark key="[" line="120" column="4" />
         <mark key="]" line="120" column="9" />
@@ -220,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Optimize for q2.</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Optimize for q2.</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
