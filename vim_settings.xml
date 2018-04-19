@@ -12,7 +12,7 @@
       <file name="/a.dummy" timestamp="1523297773371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1524167556559">
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1524175921832">
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -94,6 +94,7 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/build.gradle" timestamp="1524175978376" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/api/IAccessRegionsProtobufAPI.java" timestamp="1522354431281">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="9" />
@@ -107,6 +108,8 @@
         <mark key="^" line="59" column="56" />
         <mark key="." line="59" column="56" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/gradle.properties" timestamp="1524176535681" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/coord/MetadataServiceWorker.java" timestamp="1524175263822" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/api/IMDSAccessRegionsService.java" timestamp="1522353846703">
         <mark key="[" line="120" column="4" />
         <mark key="]" line="120" column="9" />
