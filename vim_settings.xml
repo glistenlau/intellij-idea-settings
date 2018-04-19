@@ -31,12 +31,6 @@
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilter.java" timestamp="1522705456798">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523299608231">
         <mark key="[" line="258" column="22" />
         <mark key="]" line="259" column="7" />
@@ -44,10 +38,9 @@
         <mark key="^" line="259" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACDimensionAttributeFilterDTO.java" timestamp="1523056887701">
-        <mark key="[" line="53" column="123" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
@@ -61,13 +54,12 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524100351551">
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
-        <mark key="^" line="386" column="0" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524167138302">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="221" column="118" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1524098917139" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1523299718619">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -179,11 +171,11 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>curAccessList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>curAccessList</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -192,34 +184,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50TGlzdCBjdXJBY2Nlc3NMaXN0ID0gbmV3IEludEFycmF5TGlzdCh0b3RhbENlbGxzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlJbnRTZXQgZXhwYW5kZWROb2RlcyA9IGV4cGFuZE5vZGVzUGVyRGltZW5zaW9uKG1lLCBlbnRyeS5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gc2l6ZXMgPSBuZXcgaW50W2lucHV0Lmxlbmd0aF07Cg==</text>
+        <text encoding="base64">CQkJCQlkZXRhaWxSZXN1bHQuZ2V0UXVlcnlSZXN1bHRWYWx1ZU1hcCgpLnB1dChtZSwgUm9hcmluZ0JpdG1hcEhlbHBlcnMuaW50TGlzdEZyb21Sb2FyaW5nQml0bWFwKGV4cGFuZGVkTm9kZXMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemVzW2ldID0gaW5wdXRbaV0uc2l6ZSgpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAzOGI0NTgzZi4uLiBPcHRpbWl6ZSBmb3IgcTIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXNpemVzW3ZlcnNpb25JbmRleF0gPSAxOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vCQkJY29tYmluZShjYXBwZWRBY2Nlc3NUeXBlLCBpbnB1dCwgbmV3IGludFtpbnB1dC5sZW5ndGhdLCAwKTsK</text>
+        <text encoding="base64">CQkJY2FydGVzaWFuKGRldGFpbFJlc3VsdC5nZXRBY2Nlc3NUeXBlKCksZGV0YWlsUmVzdWx0LmdldFF1ZXJ5UmVzdWx0VmFsdWVNYXAoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgU3lzdGVtLm91dC5wcmluCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgZGV0YWlsUmVzdWx0LnNpemUK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
     </registers>
     <search>
