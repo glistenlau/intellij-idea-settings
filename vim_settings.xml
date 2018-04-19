@@ -18,6 +18,7 @@
         <mark key="^" line="165" column="22" />
         <mark key="." line="165" column="22" />
       </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceImpl.java" timestamp="1524098192136" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/testdata/ConcurrencyScenario.java" timestamp="1522885318790">
         <mark key="[" line="64" column="81" />
         <mark key="]" line="64" column="81" />
@@ -60,7 +61,13 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1524076461682" />
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/ARCUserAccessRegion.java" timestamp="1524100351551">
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
+        <mark key="^" line="386" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACConcurrency.java" timestamp="1524098917139" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1523299718619">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -173,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cur</text>
+        <text>curAccessList</text>
       </register>
       <register name="-" type="4">
-        <text>cur</text>
+        <text>curAccessList</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -185,34 +192,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgU3lzdGVtLm91dC5wcmluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50TGlzdCBjdXJBY2Nlc3NMaXN0ID0gbmV3IEludEFycmF5TGlzdCh0b3RhbENlbGxzKTsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgZGV0YWlsUmVzdWx0LnNpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gc2l6ZXMgPSBuZXcgaW50W2lucHV0Lmxlbmd0aF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemVzW2ldID0gaW5wdXRbaV0uc2l6ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCXNpemVzW3ZlcnNpb25JbmRleF0gPSAxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAgICAgcmVzdWx0ICo9IHZhbDsK</text>
+        <text encoding="base64">CS8vCQkJY29tYmluZShjYXBwZWRBY2Nlc3NUeXBlLCBpbnB1dCwgbmV3IGludFtpbnB1dC5sZW5ndGhdLCAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICBmb3IgKGludCB2YWw6IHZhbHVlcykgewo=</text>
+        <text encoding="base64">CQkgICAgU3lzdGVtLm91dC5wcmluCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBpbnQgcmVzdWx0ID0gMTsK</text>
+        <text encoding="base64">CQkgICAgZGV0YWlsUmVzdWx0LnNpemUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLnRvU3RyaW5nKHZhbHVlcykuaGFzaENvZGUoKTsK</text>
+        <text encoding="base64">CSAgICByZXR1cm4gQXJyYXlzLmhhc2hDb2RlKHZhbHVlcyk7Cg==</text>
       </register>
     </registers>
     <search>
