@@ -115,8 +115,11 @@
         <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/chat/app/ChatApplication.java" timestamp="1524285997762" />
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524457147956">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524460189447">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1523299718619">
         <mark key="[" line="31" column="0" />
@@ -161,11 +164,11 @@
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/PayOrderActivity.java" timestamp="1524457012564">
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="258" column="0" />
-        <mark key="^" line="258" column="29" />
-        <mark key="." line="258" column="0" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/PayOrderActivity.java" timestamp="1524461004787">
+        <mark key="[" line="262" column="65" />
+        <mark key="]" line="262" column="64" />
+        <mark key="^" line="262" column="64" />
+        <mark key="." line="262" column="64" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsClientState.java" timestamp="1522703580549">
         <mark key="[" line="54" column="0" />
@@ -173,10 +176,11 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524453747311">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524461160492">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="50" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceWorkerImpl.java" timestamp="1522354301219">
         <mark key="[" line="58" column="61" />
@@ -233,46 +237,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWNoYXRQYXkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoUGF5T3JkZXJBY3Rpdml0eS50aGlzLCAi5YWF5YC85aSx6LSlIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3ZWNoYXRQYXkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcmVzdWx0ID0gbmV3IEdzb24oKS5mcm9tSgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXEuYXBwSWQgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXlSZXEgcmVxID0gbmV3IFBheVJlcSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvblBheUZpbmlzaCwgZXJyQ29kZSA9ICIgKyByZXNwLmVyckNvZGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBJV1hBUEkgbXNnQXBpID0gV1hBUElGYWN0b3J5LmNyZWF0ZVdYQVBJKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLG51bGwpOwo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkxvbmdMb2dUYWciKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChQYXlPcmRlckFjdGl2aXR5LnRoaXMsICLlvq7kv6HmlK/ku5jlsJrmnKrlvIDpgJrvvIzor7fpgInmi6nlhbbku5bmlK/ku5jmlrnlvI8iLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5wYXlfcmVzdWx0KTsK</text>
       </register>
     </registers>
     <search>
