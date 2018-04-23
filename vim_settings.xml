@@ -35,7 +35,12 @@
         <mark key="." line="1979" column="50" />
         <mark key="^" line="1979" column="71" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1524525518352" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1524527031836">
+        <mark key="[" line="4072" column="28" />
+        <mark key="]" line="4072" column="35" />
+        <mark key="^" line="4072" column="35" />
+        <mark key="." line="4072" column="35" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523299608231">
         <mark key="[" line="258" column="22" />
         <mark key="]" line="259" column="7" />
@@ -193,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getExsitingUserNameMap</text>
+        <text>isEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>getExsitingUserNameMap</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
