@@ -103,7 +103,7 @@
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-25/java/util/concurrent/Semaphore.java" timestamp="1524285453689" />
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/utils/HttpPostUtils.java" timestamp="1524284855483">
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/utils/HttpPostUtils.java" timestamp="1524552937114">
         <mark key="[" line="205" column="30" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -115,11 +115,11 @@
         <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/chat/app/ChatApplication.java" timestamp="1524285997762" />
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524463894712">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524549758014">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1523299718619">
         <mark key="[" line="31" column="0" />
@@ -139,8 +139,10 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524463950062">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1524553044089">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
         <mark key="[" line="26" column="22" />
@@ -164,11 +166,11 @@
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/PayOrderActivity.java" timestamp="1524463488846">
-        <mark key="[" line="262" column="65" />
-        <mark key="]" line="262" column="64" />
-        <mark key="^" line="262" column="64" />
-        <mark key="." line="262" column="64" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/PayOrderActivity.java" timestamp="1524552277301">
+        <mark key="[" line="128" column="65" />
+        <mark key="]" line="147" column="49" />
+        <mark key="^" line="147" column="49" />
+        <mark key="." line="147" column="49" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsClientState.java" timestamp="1522703580549">
         <mark key="[" line="54" column="0" />
@@ -176,11 +178,11 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524463687137">
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="45" column="26" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524550644005">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="41" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceWorkerImpl.java" timestamp="1522354301219">
         <mark key="[" line="58" column="61" />
@@ -236,11 +238,11 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvYXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZyYW1ld29yayBmb3I=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text encoding="base64">IGZyYW1ld29yayBmb3I=</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -249,34 +251,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoUGF5T3JkZXJBY3Rpdml0eS50aGlzLCAi5YWF5YC85aSx6LSlIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvYXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmpvaW4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b3V5dWRqLmxldmVsaW5nLlBheU9yZGVyQWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlcSA9IChQYXlSZXEpcmVxLjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChQYXlPcmRlckFjdGl2aXR5LnRoaXMsICLlvq7kv6HmlK/ku5jlsJrmnKrlvIDpgJrvvIzor7fpgInmi6nlhbbku5bmlK/ku5jmlrnlvI8iLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFsZXJ0RGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzog5pyN5Yqh5Zmo56uv5Y+v6IO96L+Y5rKh5pyJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b3V5dWRqLmxldmVsaW5nLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGVyciA9IHJlc3VsdC5nZXRTdHJpbmcoIkVyck1zZyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55b3V5dWRqLmxldmVsaW5nLlBheU9yZGVyQWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN1Y2Nlc3MgPSByZXN1bHQuZ2V0U3RyaW5nKCJTdWNjZXNzIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZW5jZW50Lm1tLm9wZW5zZGsuY29uc3RhbnRzLkNvbnN0YW50c0FQSTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IHJlc3VsdCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQodGhpcywgUmVsZWFzZU9yZGVyU3VjY2Vzc0FjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwogICAgICAgICAgICBmaW5pc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3VjY2VzcyA9IHJlc3VsdC5nZXRTdHJpbmcoIlN1Y2Nlc3MiKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZXJyID0gcmVzdWx0LmdldFN0cmluZygiRXJyTXNnIik7Cg==</text>
       </register>
     </registers>
     <search>
