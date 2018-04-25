@@ -171,7 +171,7 @@
         <mark key="^" line="145" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524623440465">
+      <file name="/Dummy.txt" timestamp="1524623964909">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -215,6 +215,7 @@
         <mark key="." line="284" column="7" />
         <mark key="^" line="284" column="7" />
       </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/BeaterAuthActivity.java" timestamp="1524624886538" />
       <file name="/fragment.java" timestamp="1524456908577">
         <mark key="[" line="0" column="0" />
       </file>
