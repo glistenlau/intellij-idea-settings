@@ -24,6 +24,7 @@
       <file name="/a.dummy" timestamp="1523297773371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/ChongzhiActivity.java" timestamp="1524627590532" />
       <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/BeaterCenterFragment.java" timestamp="1524281042357">
         <mark key="[" line="216" column="11" />
         <mark key="]" line="216" column="9" />
@@ -171,7 +172,7 @@
         <mark key="^" line="145" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524623964909">
+      <file name="/Dummy.txt" timestamp="1524627325094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -215,7 +216,9 @@
         <mark key="." line="284" column="7" />
         <mark key="^" line="284" column="7" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/BeaterAuthActivity.java" timestamp="1524624886538" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/BeaterAuthActivity.java" timestamp="1524627310500">
+        <mark key="[" line="240" column="37" />
+      </file>
       <file name="/fragment.java" timestamp="1524456908577">
         <mark key="[" line="0" column="0" />
       </file>
