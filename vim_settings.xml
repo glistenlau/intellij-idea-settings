@@ -54,11 +54,10 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524549758014">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="28" column="27" />
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/pay/WechatPay.java" timestamp="1524980565869">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkMDSConcurrency.java" timestamp="1523299718619">
         <mark key="[" line="31" column="0" />
@@ -79,6 +78,7 @@
         <mark key="." line="26" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/LoginActivity.java" timestamp="1524287824440" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/5.1.4/a2166720f73c470341d9cf4b57edd3bbd42f8f8c/wechat-sdk-android-with-mta-5.1.4.jar!/com/tencent/mm/opensdk/modelpay/PayReq.class" timestamp="1524980556357" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
       </file>
@@ -195,7 +195,7 @@
         <mark key="^" line="147" column="49" />
         <mark key="." line="147" column="49" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524973663917">
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/wxapi/WXPayEntryActivity.java" timestamp="1524980445516">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="^" line="97" column="41" />
@@ -241,10 +241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20ueW91eXVkai5sZXZlbGluZyIK</text>
+        <text encoding="base64">ICAgICAgICByZXEuZXh0RGF0YQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZyYW1ld29yayBmb3I=</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -253,34 +253,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoUGF5T3JkZXJBY3Rpdml0eS50aGlzLCAi5YWF5YC85aSx6LSlIiwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20ueW91eXVkai5sZXZlbGluZyIK</text>
+        <text encoding="base64">ICAgICAgICByZXEuZXh0RGF0YQo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20ueW91eXVkai5sZXZlbGluZyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nLmpvaW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChQYXlPcmRlckFjdGl2aXR5LnRoaXMsICLlvq7kv6HmlK/ku5jlsJrmnKrlvIDpgJrvvIzor7fpgInmi6nlhbbku5bmlK/ku5jmlrnlvI8iLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzog5pyN5Yqh5Zmo56uv5Y+v6IO96L+Y5rKh5pyJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChQYXlPcmRlckFjdGl2aXR5LnRoaXMsICLlvq7kv6HmlK/ku5jlsJrmnKrlvIDpgJrvvIzor7fpgInmi6nlhbbku5bmlK/ku5jmlrnlvI8iLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETzog5pyN5Yqh5Zmo56uv5Y+v6IO96L+Y5rKh5pyJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGVyciA9IHJlc3VsdC5nZXRTdHJpbmcoIkVyck1zZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluaXNoKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN1Y2Nlc3MgPSByZXN1bHQuZ2V0U3RyaW5nKCJTdWNjZXNzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGVyciA9IHJlc3VsdC5nZXRTdHJpbmcoIkVyck1zZyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IHJlc3VsdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN1Y2Nlc3MgPSByZXN1bHQuZ2V0U3RyaW5nKCJTdWNjZXNzIik7Cg==</text>
       </register>
     </registers>
     <search>
