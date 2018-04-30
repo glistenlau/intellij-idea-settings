@@ -168,7 +168,12 @@
       <file name="/Dummy.txt" timestamp="1524780374696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/TagValueAdminServicesImpl.java" timestamp="1525122455086" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/TagValueAdminServicesImpl.java" timestamp="1525123765384">
+        <mark key="[" line="886" column="105" />
+        <mark key="]" line="886" column="105" />
+        <mark key="." line="886" column="105" />
+        <mark key="^" line="886" column="105" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-proto-impl/src/main/java/com/adaptiveinsights/metadataservice/protobuf/impl/service/AccessRegionsWorkerProtobufImpl.java" timestamp="1522959964025">
         <mark key="[" line="59" column="16" />
         <mark key="]" line="59" column="56" />
@@ -225,11 +230,11 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb21taXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Query(contextJson),</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>Query(contextJson),</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
