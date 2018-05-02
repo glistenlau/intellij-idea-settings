@@ -12,11 +12,11 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/TemplateImportBase.java" timestamp="1525287286393">
-        <mark key="[" line="229" column="41" />
-        <mark key="]" line="229" column="22" />
-        <mark key="." line="229" column="22" />
-        <mark key="^" line="229" column="22" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/TemplateImportBase.java" timestamp="1525289126808">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+        <mark key="^" line="261" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/PlansModelImport.java" timestamp="1524513824249">
         <mark key="[" line="1979" column="50" />
@@ -238,7 +238,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3JtdWxhLiIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Query(contextJson),</text>
@@ -250,34 +250,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGb3JtdWxhLiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjZWxsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb21taXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjdEVsZW1lbnQuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb21taXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5NZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjdEVsZW1lbnQuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgKEEuSXNMaW5rPTApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLSBpZ25vcmUgY3ViZSBsaW5rc1xuXAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5NZXNzYWdlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBTkQgKEEuSXNMaW5rPTApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLSBpZ25vcmUgY3ViZSBsaW5rc1xuXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29ubmVjdGlvbiBjb25uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29ubmVjdGlvbiBjb25uOwo=</text>
       </register>
     </registers>
     <search>
