@@ -50,6 +50,11 @@
         <mark key="^" line="120" column="9" />
         <mark key="." line="120" column="9" />
       </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/res/layout/activity_tixian_dailian.xml" timestamp="1525239881267">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/Leveling/app/src/main/res/layout/activity_get_money.xml" timestamp="1525238568179" />
       <file name="/a.dummy" timestamp="1523297773371">
         <mark key="[" line="0" column="0" />
@@ -86,6 +91,7 @@
         <mark key="." line="101" column="11" />
         <mark key="^" line="101" column="11" />
       </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/DailianTixianActivity.java" timestamp="1525240200074" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1524529623092">
         <mark key="[" line="4072" column="28" />
         <mark key="]" line="4072" column="35" />
@@ -115,7 +121,7 @@
         <mark key="." line="170" column="124" />
         <mark key="^" line="170" column="124" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525239018750">
+      <file name="/Dummy.txt" timestamp="1525240306871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
@@ -189,6 +195,7 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/TixianDailianActivity.java" timestamp="1525240137513" />
     </filemarks>
     <jumps>
       <jump line="318" column="43" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" />
@@ -208,7 +215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bnRWYWx1ZT4gbWVWQ2FjaGUgPSBjb21wYW55Q2FjaGUuZ2V0TW9kZWxFbGVtZW50VmFsdWVDYWNoZShtZUlkLCBtZVR5cGUuZ2V0TURTTW9kZWxFbGVtZW50VHlwZSgpKTs=</text>
@@ -220,34 +227,34 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0aGlzLmRhY1Jlc3VsdCA9IGRhY1Jlc3VsdDsJCQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBEQUNRMlJlc3VsdERUTyhPYmplY3QySW50T3Blbkhhc2hNYXA8Q29vcmRpbmF0ZT4gZGFjUmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBEQUNRMlJlc3VsdERUTyhPYmplY3QySW50T3Blbkhhc2hNYXA8Q29vcmRpbmF0ZT4gZGFjUmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQl0aGlzLmRhY1Jlc3VsdCA9IGRhY1Jlc3VsdDsJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXNpemUgPSBJbnRlZ2VyLk1BWF9WQUxVRTsK</text>
+        <text encoding="base64">CXB1YmxpYyBEQUNRMlJlc3VsdERUTyhPYmplY3QySW50T3Blbkhhc2hNYXA8Q29vcmRpbmF0ZT4gZGFjUmVzdWx0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKHNpemUgPiBJbnRlZ2VyLk1BWF9WQUxVRSkgewo=</text>
+        <text encoding="base64">CXB1YmxpYyBEQUNRMlJlc3VsdERUTyhPYmplY3QySW50T3Blbkhhc2hNYXA8Q29vcmRpbmF0ZT4gZGFjUmVzdWx0KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGl0LnVuaW1pLmRzaS5mYXN0dXRpbC5pbnRzLkludFNldDsK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGl0LnVuaW1pLmRzaS5mYXN0dXRpbC5pbnRzLkludE9wZW5IYXNoU2V0Owo=</text>
+        <text encoding="base64">CQkJCXNpemUgPSBJbnRlZ2VyLk1BWF9WQUxVRTsK</text>
       </register>
     </registers>
     <search>
