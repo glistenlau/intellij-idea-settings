@@ -55,7 +55,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/res/layout/activity_get_money.xml" timestamp="1525238568179" />
       <file name="/a.dummy" timestamp="1523297773371">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,7 +70,6 @@
         <mark key="." line="64" column="81" />
         <mark key="^" line="68" column="55" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/PeilianTixianActivity.java" timestamp="1525238941024" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523649204410">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -84,14 +82,18 @@
         <mark key="." line="80" column="65" />
         <mark key="^" line="80" column="65" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/SystemWebViewActivity.java" timestamp="1525237648340" />
+      <file name="$USER_HOME$/Developer/Leveling/app/build.gradle" timestamp="1525410417370">
+        <mark key="[" line="94" column="50" />
+        <mark key="]" line="94" column="49" />
+        <mark key="^" line="94" column="49" />
+        <mark key="." line="94" column="49" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522705838836">
         <mark key="[" line="113" column="4" />
         <mark key="]" line="101" column="11" />
         <mark key="." line="101" column="11" />
         <mark key="^" line="101" column="11" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/DailianTixianActivity.java" timestamp="1525240200074" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1524529623092">
         <mark key="[" line="4072" column="28" />
         <mark key="]" line="4072" column="35" />
@@ -195,7 +197,6 @@
         <mark key="." line="29" column="15" />
         <mark key="^" line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/java/com/youyudj/leveling/TixianDailianActivity.java" timestamp="1525240137513" />
     </filemarks>
     <jumps>
       <jump line="318" column="43" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" />
