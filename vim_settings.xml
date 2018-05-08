@@ -87,6 +87,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/LevelAdminServicesImpl.oracle.properties" timestamp="1525820284773">
+        <mark key="[" line="1356" column="0" />
+        <mark key="]" line="1356" column="0" />
+        <mark key="^" line="1375" column="0" />
+        <mark key="." line="1356" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522705838836">
         <mark key="[" line="113" column="4" />
         <mark key="]" line="101" column="11" />
@@ -186,10 +192,11 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/LevelAdminServicesImpl.java" timestamp="1525819128727">
-        <mark key="[" line="2398" column="0" />
-        <mark key="]" line="2398" column="0" />
-        <mark key="." line="2398" column="0" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/LevelAdminServicesImpl.java" timestamp="1525820426173">
+        <mark key="[" line="3695" column="8" />
+        <mark key="]" line="3694" column="7" />
+        <mark key="." line="3694" column="7" />
+        <mark key="^" line="3694" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/User.oracle.properties" timestamp="1524514510964">
         <mark key="[" line="187" column="87" />
@@ -216,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAsIE5vdGVzID0gREVDT0RFKEFzc2lnbmFibGVQbGFuSWQsID8sID8sIE5vdGVzKSBcblwK</text>
       </register>
       <register name="-" type="4">
-        <text>s parent</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -228,19 +235,19 @@
         <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAsIE5vdGVzID0gREVDT0RFKEFzc2lnbmFibGVQbGFuSWQsID8sID8sIE5vdGVzKSBcblwK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGluY2x1ZGVJbldvcmtmbG93QW5kUGFyZW50Q2hhbmdlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgdGhlIHBsYW4gc3RhdHVzIGFjY29yZGluZyB0byB0aGUgcGFyZW50IGlmIHRoZSBsZXZlbCBjaGFuZ2VzIHBhcmVudCBvciBpcyBuZXdseSBpbmNsdWRlZCBpbiB3b3JrZmxvdy4K</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBib29sZWFuIGluY2x1ZGVJbldvcmtmbG93QW5kUGFyZW50Q2hhbmdlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgdGhlIHBsYW4gc3RhdHVzIGFjY29yZGluZyB0byB0aGUgcGFyZW50IGlmIHRoZSBsZXZlbCBjaGFuZ2VzIHBhcmVudCBvciBpcyBuZXdseSBpbmNsdWRlZCBpbiB3b3JrZmxvdy4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
@@ -249,13 +256,13 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLmRhY1Jlc3VsdCA9IGRhY1Jlc3VsdDsJCQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXB1YmxpYyBEQUNRMlJlc3VsdERUTyhPYmplY3QySW50T3Blbkhhc2hNYXA8Q29vcmRpbmF0ZT4gZGFjUmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">CQl0aGlzLmRhY1Jlc3VsdCA9IGRhY1Jlc3VsdDsJCQo=</text>
       </register>
     </registers>
     <search>
