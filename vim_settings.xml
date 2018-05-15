@@ -79,7 +79,7 @@
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.java" timestamp="1526342101249" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.java" timestamp="1526346055966" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1522088236664">
         <mark key="[" line="170" column="157" />
         <mark key="]" line="170" column="124" />
@@ -140,7 +140,12 @@
         <mark key="." line="59" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/Account.java" timestamp="1526342916771" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.oracle.properties" timestamp="1526343531351" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.oracle.properties" timestamp="1526346080843">
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="70" column="12" />
+      </file>
       <file name="$TOMCAT_HOME$/webapps/ROOT/WEB-INF/classes/com/adaptiveplanning/util/modelimport/ModelImportBase.properties" timestamp="1526339072631" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/ModelImportBase.java" timestamp="1526339525589">
         <mark key="[" line="379" column="0" />
