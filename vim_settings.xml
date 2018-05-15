@@ -3,16 +3,127 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/Leveling/app/src/main/res/layout/activity_tixian_dailian.xml" timestamp="1525239881267">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1525990690788">
         <mark key="[" line="5966" column="17" />
         <mark key="]" line="5967" column="15" />
         <mark key="^" line="5967" column="15" />
         <mark key="." line="5967" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1523297773371">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ConfigurableModelImporter.java" timestamp="1526347107503">
+        <mark key="[" line="791" column="15" />
+        <mark key="]" line="791" column="15" />
+        <mark key="." line="791" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1524175921832">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/PlansModelImport.java" timestamp="1526347205504">
+        <mark key="[" line="2684" column="15" />
+        <mark key="]" line="2684" column="15" />
+        <mark key="." line="2684" column="15" />
+        <mark key="^" line="1979" column="71" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1526348335124">
+        <mark key="[" line="8076" column="122" />
+        <mark key="]" line="8076" column="122" />
+        <mark key="." line="8076" column="122" />
+        <mark key="^" line="8076" column="122" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523299608231">
+        <mark key="[" line="258" column="22" />
+        <mark key="]" line="259" column="7" />
+        <mark key="." line="259" column="7" />
+        <mark key="^" line="259" column="7" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/TransactionImporter.java" timestamp="1526347279800">
+        <mark key="[" line="514" column="15" />
+        <mark key="]" line="514" column="15" />
+        <mark key="." line="514" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522705838836">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="101" column="11" />
+        <mark key="." line="101" column="11" />
+        <mark key="^" line="101" column="11" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/api/IAccessRegionsProtobufAPI.java" timestamp="1522354431281">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/DimensionsModelImport.java" timestamp="1526347144808">
+        <mark key="[" line="1902" column="15" />
+        <mark key="]" line="1902" column="15" />
+        <mark key="." line="1902" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/TimeModelImportBase.java" timestamp="1526347299589">
+        <mark key="[" line="494" column="15" />
+        <mark key="]" line="494" column="15" />
+        <mark key="." line="494" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/ModelImportBase.java" timestamp="1526347496596">
+        <mark key="[" line="473" column="32" />
+        <mark key="]" line="473" column="31" />
+        <mark key="." line="473" column="31" />
+        <mark key="^" line="473" column="31" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1524520864183">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="65" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/performance/PerfMain.java" timestamp="1522441273207">
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="80" column="65" />
+        <mark key="." line="80" column="65" />
+        <mark key="^" line="80" column="65" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ModelElementInfo.java" timestamp="1521157395638">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsClientState.java" timestamp="1522703580549">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1524174483402">
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="65" column="19" />
+        <mark key="^" line="65" column="19" />
+        <mark key="." line="65" column="19" />
+      </file>
+      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/JournalEntriesModelImport.java" timestamp="1526347179467">
+        <mark key="[" line="349" column="15" />
+        <mark key="]" line="349" column="15" />
+        <mark key="." line="349" column="15" />
+      </file>
+      <file name="$USER_HOME$/Developer/Leveling/app/src/main/res/layout/activity_tixian_dailian.xml" timestamp="1525239881267">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDACPerformance.java" timestamp="1523649204410">
         <mark key="[" line="78" column="0" />
@@ -20,19 +131,11 @@
         <mark key="^" line="102" column="3" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1523297773371">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AccountAdminServicesImpl.java" timestamp="1526340911146">
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />
         <mark key="^" line="278" column="20" />
         <mark key="." line="278" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/build.gradle" timestamp="1524175921832">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceImpl.java" timestamp="1524594204593">
         <mark key="[" line="114" column="42" />
@@ -43,23 +146,11 @@
         <mark key="." line="64" column="81" />
         <mark key="^" line="68" column="55" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/PlansModelImport.java" timestamp="1524513824249">
-        <mark key="[" line="1979" column="50" />
-        <mark key="]" line="1979" column="50" />
-        <mark key="." line="1979" column="50" />
-        <mark key="^" line="1979" column="71" />
-      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/AccessRegionsServiceWorkerImpl.java" timestamp="1522354301219">
         <mark key="[" line="58" column="61" />
         <mark key="]" line="58" column="61" />
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="61" />
-      </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1526342839430">
-        <mark key="[" line="8066" column="97" />
-        <mark key="]" line="8066" column="116" />
-        <mark key="." line="8066" column="116" />
-        <mark key="^" line="8066" column="116" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-impl/src/main/java/com/adaptiveinsights/metadataservice/impl/accessregions/service/DACQ2ResultDTO.java" timestamp="1524594001023">
         <mark key="[" line="24" column="0" />
@@ -67,19 +158,13 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" timestamp="1523299608231">
-        <mark key="[" line="258" column="22" />
-        <mark key="]" line="259" column="7" />
-        <mark key="." line="259" column="7" />
-        <mark key="^" line="259" column="7" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.properties" timestamp="1520632023066">
         <mark key="[" line="39" column="16" />
         <mark key="]" line="39" column="14" />
         <mark key="." line="39" column="14" />
         <mark key="^" line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.java" timestamp="1526346055966" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.java" timestamp="1526346932368" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1522088236664">
         <mark key="[" line="170" column="157" />
         <mark key="]" line="170" column="124" />
@@ -103,12 +188,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsScenarioState.java" timestamp="1522705838836">
-        <mark key="[" line="113" column="4" />
-        <mark key="]" line="101" column="11" />
-        <mark key="." line="101" column="11" />
-        <mark key="^" line="101" column="11" />
-      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-worker/src/main/java/com/adaptiveinsights/metadataservice/worker/MetadataServiceWorkerApplication.java" timestamp="1522351995212">
         <mark key="[" line="119" column="59" />
       </file>
@@ -118,20 +197,8 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1525844207920">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-protobuf/src/main/java/com/adaptiveinsights/metadataservice/protobuf/api/IAccessRegionsProtobufAPI.java" timestamp="1522354431281">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="35" column="9" />
-        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-proto-impl/src/main/java/com/adaptiveinsights/metadataservice/protobuf/impl/service/AccessRegionsWorkerProtobufImpl.java" timestamp="1522959964025">
         <mark key="[" line="59" column="16" />
@@ -140,36 +207,17 @@
         <mark key="." line="59" column="56" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/Account.java" timestamp="1526342916771" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.oracle.properties" timestamp="1526346080843">
-        <mark key="[" line="70" column="14" />
-        <mark key="]" line="70" column="12" />
-        <mark key="^" line="70" column="12" />
-        <mark key="." line="70" column="12" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/common/JournalEntryUtil.oracle.properties" timestamp="1526346259593">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$TOMCAT_HOME$/webapps/ROOT/WEB-INF/classes/com/adaptiveplanning/util/modelimport/ModelImportBase.properties" timestamp="1526339072631" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/ModelImportBase.java" timestamp="1526339525589">
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="0" />
-        <mark key="^" line="371" column="19" />
-        <mark key="." line="379" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1524520864183">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="91" column="65" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/api/IMDSAccessRegionsService.java" timestamp="1522353846703">
         <mark key="[" line="120" column="4" />
         <mark key="]" line="120" column="9" />
         <mark key="^" line="120" column="9" />
         <mark key="." line="120" column="9" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/performance/PerfMain.java" timestamp="1522441273207">
-        <mark key="[" line="77" column="54" />
-        <mark key="]" line="80" column="65" />
-        <mark key="." line="80" column="65" />
-        <mark key="^" line="80" column="65" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/build.gradle" timestamp="1522441448277">
         <mark key="[" line="87" column="55" />
@@ -183,35 +231,17 @@
         <mark key="^" line="1769" column="45" />
         <mark key="." line="1769" column="45" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ModelElementInfo.java" timestamp="1521157395638">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/MdsClientState.java" timestamp="1522703580549">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.java" timestamp="1526346997276">
+        <mark key="[" line="890" column="15" />
+        <mark key="]" line="890" column="29" />
+        <mark key="." line="890" column="29" />
+        <mark key="^" line="890" column="29" />
       </file>
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/BenchmarkDAC.java" timestamp="1523297635853">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="36" />
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/Coordinate.java" timestamp="1524174483402">
-        <mark key="[" line="64" column="12" />
-        <mark key="]" line="65" column="19" />
-        <mark key="^" line="65" column="19" />
-        <mark key="." line="65" column="19" />
-      </file>
-      <file name="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/resources/log4j.properties" timestamp="1521139819186">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/User.oracle.properties" timestamp="1524514510964">
         <mark key="[" line="187" column="87" />
@@ -237,47 +267,58 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAJCSAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyBEQUNRMlJlc3VsdERUTyBzY2VuYXJpb1RlbihEaW1lbnNpb25BdHRyaWJ1dGVGaWx0ZXJTdGF0ZSBzdGF0ZSkgdGhyb3dzIE1ldGFkYXRhU2VydmljZUV4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGludm9rZVF1ZXN0aW9uVHdvKHN0YXRlLCAxMCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAkvLyBhIG1hcCB0aGF0IG1hcHMgYW4gYWNjb3VudCBuYW1lIHRvIGEgYWNjb3VudCBoYXZlIGpvdXJuYWwgZW50cmllcyAKICAgIAlwcml2YXRlIE1hcDxTdHJpbmcsIEFjY291bnRNb2RlbEVudGl0eT4gbmFtZVRvQWNjb3VudFdpdGhKb3VybmFsRW50cmllc01hcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJcGFyZW50QWNjb3VudE1vZGVsRW50aXR5LmNoaWxkcmVuCg==</text>
+        <text encoding="base64">ICAgICAgICAJCSAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gZ2V0Um93S2V5KGRhdGFSb3cuZ2V0Um93KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAJCSAgICBuYW1lVG9Kb3VybmFsRW50cnlBY2NvdW50TWFwLnB1dElmQWJzZW50KGFjY291bnQuZ2V0TmFtZSgpLCApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdGVkSW5wdXRKc29uICE9IG51bGwgJiYgdmFsaWRhdGVkSW5wdXRKc29uLmhhcyhMZXZlbEpzb25Qcm9wZXJ0eS5QUk9QQUdBVEVfU0hFRVRTLmdldEtleSgpKSAmJiB2YWxpZGF0ZWRJbnB1dEpzb24uZ2V0KExldmVsSnNvblByb3BlcnR5LlBST1BBR0FURV9TSEVFVFMuZ2V0S2V5KCkpLmdldEFzQm9vbGVhbigpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWxzZSBpZiAocGFyZW50TmFtZSAhPSBudWxsICYmIGVudGl0eU5hbWVzV2l0aEpvdXJuYWxFbnRyaWVzLmNvbnRhaW5zKHBhcmVudE5hbWUudG9VcHBlckNhc2UoKSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFSb3cuc2V0UGFyZW50TmFtZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdGVkSW5wdXRKc29uLmdldCgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBTZXQ8U3RyaW5nPiBnZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="8" type="4">
+        <text>getAccountsWithJEntriesOnItOrDescendants=\
+SELECT ID \n\
+FROM Account Acct \n\
+WHERE EXISTS ( \n\
+    SELECT JED.Id FROM JournalEntryDetail JED \n\
+    WHERE EXISTS ( \n\
+        Select A.id FROM Account A \n\
+        WHERE A.Id = JED.accountId \n\
+        START WITH A.Id = Acct.Id \n\
+        CONNECT BY PRIOR A.Id = A.ParentId \n\
+    ) \n\
+);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWNjb3VudCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAJcGFyZW50QWNjb3VudE1vZGVsRW50aXR5LmNoaWxkcmVuCg==</text>
       </register>
     </registers>
     <search>
