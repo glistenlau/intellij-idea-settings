@@ -28,6 +28,7 @@
         <mark key="." line="101" column="11" />
         <mark key="^" line="101" column="11" />
       </file>
+      <file name="$TOMCAT_HOME$/logs/AdaptivePlanningApp.log" timestamp="1526938734348" />
       <file name="$USER_HOME$/Developer/metadataservice/metadataservice-api/src/main/java/com/adaptiveinsights/metadataservice/common/accessregions/ModelElementCoordinateWithAccess.java" timestamp="1521568471403">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="13" />
