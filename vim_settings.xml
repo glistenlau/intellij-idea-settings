@@ -9,11 +9,11 @@
         <mark key="^" line="7217" column="8" />
         <mark key="." line="7217" column="8" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/TemplateImportBase.java" timestamp="1526676556384" />
-      <file name="$USER_HOME$/Developer/planning/build/build.xml" timestamp="1526947035369" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/Dashboard.java" timestamp="1526947678124" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/test/TestLevelAdminServicesImpl.java" timestamp="1526947892355" />
-      <file name="$TOMCAT_HOME$/logs/AdaptivePlanningApp.log" timestamp="1526943556138" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/DimensionsModelImport.java" timestamp="1527027190056">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/ModelImportBase.java" timestamp="1526675665998">
         <mark key="[" line="447" column="57" />
         <mark key="]" line="447" column="52" />
@@ -26,15 +26,13 @@
         <mark key="^" line="91" column="65" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/DimensionValue.java" timestamp="1526936998908" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/TagValue.java" timestamp="1526947496742">
         <mark key="[" line="835" column="99" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/treeNavigator/TreeNavigatorFeederControl.java" timestamp="1526947633812">
         <mark key="[" line="168" column="51" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/imp/ImportManager.java" timestamp="1526676882828" />
-      <file name="$USER_HOME$/Developer/planning/3rdparty/adaptive/common/service-common/service-common-1.0.2-sources.jar!/com/adaptiveinsights/core/datalayer/DataSourceManager.java" timestamp="1526947218697" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AttributesModelImport.properties" timestamp="1527027130540" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImportCatcher.java" timestamp="1526677976180">
         <mark key="[" line="170" column="157" />
         <mark key="]" line="170" column="124" />
@@ -47,7 +45,6 @@
         <mark key="^" line="611" column="43" />
         <mark key="." line="1170" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/PlanAdminServicesImpl.java" timestamp="1526947346972" />
       <file name="/fragment.java" timestamp="1526942264928">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,7 +68,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTExFR0FMX0RJTUVOU0lPTl9WQUxVRV9DT0RFX0FMTCA9ICJpbGxlZ2FsLWRpbWVuc2lvbi12YWx1ZS1jb2RlLWFsbCI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>execute</text>
@@ -83,34 +80,34 @@
         <text encoding="base64">ICAgIAkvLyBhIG1hcCB0aGF0IG1hcHMgYW4gYWNjb3VudCBuYW1lIHRvIGEgYWNjb3VudCBoYXZlIGpvdXJuYWwgZW50cmllcyAKICAgIAlwcml2YXRlIE1hcDxTdHJpbmcsIEFjY291bnRNb2RlbEVudGl0eT4gbmFtZVRvQWNjb3VudFdpdGhKb3VybmFsRW50cmllc01hcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBJTExFR0FMX0RJTUVOU0lPTl9WQUxVRV9DT0RFX0FMTCA9ICJpbGxlZ2FsLWRpbWVuc2lvbi12YWx1ZS1jb2RlLWFsbCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBGb3IgaW1wb3J0LCB0aGUgZGltZW5zaW9uIGNvZGUgIkFsbCIgaXMgcmVzZXJ2ZWQuICBUaGlzIGlzIHByb2JhYmx5IGEgbGVnYWN5IGlzc3VlIHRoYXQgCiAgICAgICAgLy8gbm8gbG9uZ2VyIG5lZWRzIHRvIGJlIGVuZm9yY2VkLiAgU2VlIGJ1ZyAxMDEyOC4gIFRoZSBvcmlnaW5hbCBjb2RlIGNvbXBhcmVkIHRoZSByZXNvdXJjZSAKICAgICAgICAvLyB2YWx1ZSBvZiAiYWxsIiBhZ2FpbnN0IHRoZSB1cHBlcmNhc2UgdmVyc2lvbiBvZiB0aGUgdmFsdWUgaW4gdGhlIHNwcmVhZHNoZWV0LiAgSWYgdGhlc2UKICAgICAgICAvLyBtYXRjaGVkLCB0aGUgcm93IHdhcyBqdXN0IHNraXBwZWQgd2hpY2ggY2F1c2VkIG90aGVyIHByb2JsZW1zLiAgSW5zdGVhZCwgd2UgZmxhZyB0aGlzCiAgICAgICAgLy8gYXMgYSByZXNlcnZlZCB3b3JkIGFuZCByZWplY3QgdGhlIHNwcmVhZHNoZWV0LgogICAgICAgIFN0cmluZyBhbGxEaW1lbnNpb25Db2RlID0gTWVzc2FnZVJlc291cmNlLmdldE1lc3NhZ2UoRGltZW5zaW9uc01vZGVsSW1wb3J0LmNsYXNzLCAiYWxsIiwgZ2V0TG9jYWxlKCkpOwogICAgICAgIGlmIChhbGxEaW1lbnNpb25Db2RlLmVxdWFscyhkaW1lbnNpb25WYWx1ZUNvZGUudG9VcHBlckNhc2UoKSkpIHsKICAgICAgICAgICAgcmV0dXJuIGdldEVycm9yTWVzc2FnZShJTExFR0FMX0RJTUVOU0lPTl9WQUxVRV9DT0RFX0FMTCwgZGltZW5zaW9uVmFsdWVDb2RlKTsKICAgICAgICB9CiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihnZXRBY2NvdW50QXJlYSgpLmVxdWFscyhBY2NvdW50QXJlYS5DVUJFLm5hbWUoKSkgJiYgYWNjdFRvRGVsZXRlLmdldERhdGFFbnRyeVR5cGUoKSAhPSBEYXRhRW50cnlUeXBlLkNVQkUub3JkaW5hbCgpKXsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3IgbmF0aXZlIGN1YmUgYWNjb3VudHMgd2UgbmVlZCB0d28gdmFsaWRhdGlvbnMgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBBLkFDQ09VTlRUWVBFQ09ERSA9ICdDVUJFJyBBTkQgLS0gYWNjb3VudCB0eXBlIGNvZGUgaXMgQ1VCRSBcblwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBBLkFDQ09VTlRUWVBFQ09ERSA9ICdDVUJFJyBBTkQgLS0gYWNjb3VudCB0eXBlIGNvZGUgaXMgQ1VCRSBcblwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZihnZXRBY2NvdW50QXJlYSgpLmVxdWFscyhBY2NvdW50QXJlYS5DVUJFLm5hbWUoKSkgJiYgYWNjdFRvRGVsZXRlLmdldERhdGFFbnRyeVR5cGUoKSAhPSBEYXRhRW50cnlUeXBlLkNVQkUub3JkaW5hbCgpKXsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgbmF0aXZlIGN1YmUgYWNjb3VudHMgd2UgbmVlZCB0d28gdmFsaWRhdGlvbnMgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGV2ZWwuaGFzQ2hpbGRyZW4oY29ubikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICBBLkFDQ09VTlRUWVBFQ09ERSA9ICdDVUJFJyBBTkQgLS0gYWNjb3VudCB0eXBlIGNvZGUgaXMgQ1VCRSBcblwK</text>
       </register>
     </registers>
     <search>
