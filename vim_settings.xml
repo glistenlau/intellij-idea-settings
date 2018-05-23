@@ -38,20 +38,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ImportData.java" timestamp="1527032291532" />
       <file name="$USER_HOME$/Developer/planning/LanguageResources/src/com/adaptiveplanning/util/modelimport/LevelAttributesModelImport_en.properties" timestamp="1527028120145">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/imp/ImportManager.java" timestamp="1527035691250" />
       <file name="$USER_HOME$/Developer/planning/LanguageResources/src/com/adaptiveplanning/util/modelimport/DimensionAttributesModelImport_fr.properties" timestamp="1527028143330">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/imp/ImportHelper.java" timestamp="1527033685598" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AttributesModelImport.properties" timestamp="1527027130540" />
       <file name="$USER_HOME$/Developer/planning/LanguageResources/src/com/adaptiveplanning/util/modelimport/DimensionsModelImport_ru.properties" timestamp="1527028025578">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -72,8 +68,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/integration/ModelImport.java" timestamp="1527033496294" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/SessionState.java" timestamp="1527032201799" />
       <file name="$USER_HOME$/Developer/planning/LanguageResources/src/com/adaptiveplanning/util/modelimport/DimensionAttributesModelImport_ja.properties" timestamp="1527028133728">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -85,7 +79,7 @@
         <mark key="." line="447" column="52" />
         <mark key="^" line="447" column="52" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1527035456917">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1527114511923">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="65" />
@@ -101,7 +95,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/BaseFileUploadControlForImport.java" timestamp="1527035322828" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/BaseFileUploadControlForImport.java" timestamp="1527115283539" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.java" timestamp="1527115016222" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/ImportResult.java" timestamp="1527114927424" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/DimensionsModelImport.properties" timestamp="1527027983682">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
