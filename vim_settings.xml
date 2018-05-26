@@ -39,6 +39,12 @@
       </file>
       <file name="$USER_HOME$/Developer/planning/3rdparty/adaptive/metadataservice/metadataservice-client-all-0.8.3.jar!/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" timestamp="1527288673970" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/BaseFileUploadControlForImport.java" timestamp="1527192595301" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/eliminations/EliminationRuleEdit.java" timestamp="1527296948291">
+        <mark key="[" line="311" column="98" />
+        <mark key="]" line="311" column="98" />
+        <mark key="^" line="311" column="98" />
+        <mark key="." line="311" column="98" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.java" timestamp="1527121388772" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/ImportResult.java" timestamp="1527114927424" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/AdminExportToExcel.java" timestamp="1527124084491" />
@@ -69,11 +75,11 @@
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>cube</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
