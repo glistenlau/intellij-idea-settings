@@ -50,7 +50,12 @@
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/CubeAccount.java" timestamp="1527287585745" />
       <file name="$USER_HOME$/Developer/planning/3rdparty/jdom/jdom-2.0.6/jdom-2.0.6-sources.jar!/org/jdom2/input/SAXBuilder.java" timestamp="1527191585121" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527631880163" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527634105431">
+        <mark key="[" line="461" column="85" />
+        <mark key="]" line="461" column="85" />
+        <mark key="^" line="461" column="85" />
+        <mark key="." line="461" column="85" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/AccountAdminControlNew.java" timestamp="1527203291469" />
       <file name="$USER_HOME$/Developer/planning/3rdparty/adaptive/metadataservice/metadataservice-client-all-0.8.3.jar!/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" timestamp="1527288673970" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/eliminations/EliminationRuleEdit.java" timestamp="1527622898882">
@@ -82,8 +87,8 @@
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
