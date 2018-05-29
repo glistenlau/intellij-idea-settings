@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/treeNavigator/DispatcherImpl.java" timestamp="1527285065056" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/BaseEntityAdminServicesImpl.java" timestamp="1527289988162" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" timestamp="1527121709275" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/RuleEditBase.java" timestamp="1527621743781">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/RuleEditBase.java" timestamp="1527621915977">
         <mark key="[" line="436" column="92" />
         <mark key="]" line="436" column="92" />
         <mark key="^" line="436" column="92" />
@@ -26,6 +26,12 @@
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/BaseFileUploadControlForImport.java" timestamp="1527192595301" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/versions/services/VersionServicesImpl.java" timestamp="1527623085810">
+        <mark key="[" line="1753" column="0" />
+        <mark key="]" line="1763" column="0" />
+        <mark key="." line="1763" column="0" />
+        <mark key="^" line="1763" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/ImportResult.java" timestamp="1527114927424" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/AdminExportToExcel.java" timestamp="1527124084491" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/MappingImportControl.java" timestamp="1527191682331">
@@ -46,7 +52,7 @@
       <file name="$USER_HOME$/Developer/planning/3rdparty/jdom/jdom-2.0.6/jdom-2.0.6-sources.jar!/org/jdom2/input/SAXBuilder.java" timestamp="1527191585121" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/AccountAdminControlNew.java" timestamp="1527203291469" />
       <file name="$USER_HOME$/Developer/planning/3rdparty/adaptive/metadataservice/metadataservice-client-all-0.8.3.jar!/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" timestamp="1527288673970" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/eliminations/EliminationRuleEdit.java" timestamp="1527621679055">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/eliminations/EliminationRuleEdit.java" timestamp="1527622898882">
         <mark key="[" line="235" column="92" />
         <mark key="]" line="235" column="92" />
         <mark key="^" line="235" column="92" />
@@ -75,8 +81,8 @@
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -100,22 +106,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNOZXdBY2NvdW50ICYmIGdldEFjY291bnRBcmVhKCkuZXF1YWxzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpc05ldwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNOZXdBY2NvdW50ICYmIGdldEFjY291bnRBcmVhKCkuZXF1YWxzKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHRtbEVzY2FwZXJzLmh0bWxFc2NhcGVyKCkuZXNjYXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpc05ldwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHRtbEVzY2FwZXJzLmh0bWxFc2NhcGVyKCkuZXNjYXBlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29sVmFsdWUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLgo=</text>
       </register>
     </registers>
     <search>
