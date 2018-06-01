@@ -5,12 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/admin/AccessAdminNG.java" timestamp="1527807436524" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/spreadsheet/ExportXMLToExcel.java" timestamp="1527808615292" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/RuleEditBase.java" timestamp="1527635225076">
-        <mark key="[" line="436" column="92" />
-        <mark key="]" line="436" column="92" />
-        <mark key="^" line="436" column="92" />
-        <mark key="." line="436" column="92" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/3rdparty/jdom/jdom-2.0.6/jdom-2.0.6-sources.jar!/org/jdom2/input/SAXBuilder.java" timestamp="1527808661139" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
@@ -18,19 +12,14 @@
         <mark key="^" line="396" column="50" />
         <mark key="." line="396" column="50" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1527124387361">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1527877825424">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="91" column="65" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/eliminations/EliminationRuleEdit.java" timestamp="1527622898882">
-        <mark key="[" line="235" column="92" />
-        <mark key="]" line="235" column="92" />
-        <mark key="^" line="235" column="92" />
-        <mark key="." line="235" column="92" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/AdminExportToExcel.java" timestamp="1527808295872" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.jwc" timestamp="1527877900156" />
     </filemarks>
     <jumps>
       <jump line="318" column="43" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" />
