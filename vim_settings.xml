@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528316291326" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528319876101" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.properties" timestamp="1528310412563">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="26" />
@@ -37,11 +37,11 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528318290910">
-        <mark key="[" line="82" column="16" />
-        <mark key="]" line="82" column="15" />
-        <mark key="." line="82" column="15" />
-        <mark key="^" line="82" column="15" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528319936193">
+        <mark key="[" line="90" column="30" />
+        <mark key="]" line="93" column="40" />
+        <mark key="." line="93" column="40" />
+        <mark key="^" line="93" column="40" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessDetailInfo.java" timestamp="1528254171942" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
@@ -83,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW5UeXBlcy5zZXRBdHRyaWJ1dGUoImNvbCIgKyBjb2xOdW0sICJzdHJpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>sPrintableViewHelper</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -95,34 +95,34 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5UeXBlcy5zZXRBdHRyaWJ1dGUoImNvbCIgKyBjb2xOdW0sICJzdHJpbmciKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEFjY2Vzc0RldGFpbEluZm8+IGFjY2Vzc0RldGFpbExpc3QgPSBBY2Nlc3NSZWdpb25zLmdldEFsbEFjY2Vzc1JlZ2lvbnMoY29tcGFueUNvZGUsIHN0cnVjdHVyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsZW1lbnQgcm93ID0gcm93SW5kZXggPCByb3dMaXN0LnNpemUoKSA/IHJvd0xpc3QuZ2V0KHJvd0luZGV4KSA6IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBQ0NFU1NfVFlQRV9DT0xVTU5fSEVBREVSX0tFWSA9ICJhY2Nlc3MtdHlwZS1jb2wtaGVhZGVyIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBQ0NPVU5UX0NPTFVNTl9IRUFERVJfS0VZID0gImFjY291bnQtY29sLWhlYWRlciI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgR1JPVVBfQ09MVU1OX0hFQURFUl9LRVkgPSAiZ3JvdXAtY29sLWhlYWRlciI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTEVWRUxfQ09MVU1OX0hFQURFUl9LRVkgPSAibGV2ZWwtY29sLWhlYWRlciI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVVNFUl9DT0xVTU5fSEVBREVSX0tFWSA9ICJ1c2VyLWNvbC1oZWFkZXIiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFZFUlNJT05fQ09MVU1OX0hFQURFUl9LRVkgPSAidmVyc2lvbi1jb2wtaGVhZGVyIjsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgR1JBTlRfU1VGRklYX0tFWSA9ICJncmFudC1zdWZmaXgiOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBQ0NPVU5UOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzLmdldENvbnRlbnQoKS5nZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2gobWVUeXBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzLmdldENvbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWRhcHRpdmVwbGFubmluZy5hY2Nlc3NyZWdpb25zLm1vZGVsSW1wb3J0LkFSTW9kZWxFbGVtZW50VHlwZS4qOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEFjY2Vzc0RldGFpbEluZm8+IGFjY2Vzc0RldGFpbExpc3QgPSBBY2Nlc3NSZWdpb25zLmdldEFsbEFjY2Vzc1JlZ2lvbnMoY29tcGFueUNvZGUsIHN0cnVjdHVyZSk7Cg==</text>
       </register>
     </registers>
     <search>
