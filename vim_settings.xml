@@ -25,11 +25,11 @@
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARModelElementType.java" timestamp="1528255177703" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/TemplateImportBase.java" timestamp="1528256205389" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/misc/DACAdminTestPage.java" timestamp="1528256687210">
-        <mark key="[" line="114" column="77" />
-        <mark key="]" line="114" column="109" />
-        <mark key="." line="114" column="109" />
-        <mark key="^" line="114" column="109" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/misc/DACAdminTestPage.java" timestamp="1528314797824">
+        <mark key="[" line="117" column="8" />
+        <mark key="]" line="117" column="23" />
+        <mark key="." line="117" column="23" />
+        <mark key="^" line="117" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARAccessType.java" timestamp="1528309205144">
         <mark key="[" line="57" column="5" />
@@ -37,11 +37,11 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528310879984">
-        <mark key="[" line="53" column="92" />
-        <mark key="]" line="53" column="89" />
-        <mark key="^" line="53" column="89" />
-        <mark key="." line="53" column="89" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528314808225">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="50" column="42" />
+        <mark key="^" line="50" column="42" />
+        <mark key="." line="50" column="42" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessDetailInfo.java" timestamp="1528254171942" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
@@ -82,11 +82,11 @@
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
+      <register name="&quot;" type="4">
+        <text>locale</text>
       </register>
       <register name="-" type="4">
-        <text>AccessType</text>
+        <text>locale</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -95,34 +95,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGN1ck1vZGVsRWxlbWVudEluZm8gPSBuZXcgTW9kZWxFbGVtZW50SW5mbygiIiwgIiIsIG1vZGVsRWxlbWVudE5hbWUsIG5ldyBPYmplY3RPcGVuSGFzaFNldDw+KCksIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlLmdldExvY2FsZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IE1lc3NhZ2VSZXNvdXJjZS5nZXRNZXNzYWdlKAogICAgICAgICAgICAgICAgQWNjZXNzUmVnaW9uc1ByaW50YWJsZVZpZXdIZWxwZXIuY2xhc3MsIEFDQ0VTU19UWVBFX0NPTFVNTl9IRUFERVJfS0VZLCBsb2NhbGUpKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFOVF9TVUZGSVhfS0VZID0gImdyYW50LXN1ZmZpeCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFOVF9TVUZGSVhfS0VZID0gImdyYW50LXN1ZmZpeCI7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dmVyc2lvbi1jb2wtaGVhZGVyPVZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUk9VUF9DT0xVTU5fSEVBREVSX0tFWSA9ICJncm91cC1jb2wtaGVhZGVyIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlci1jb2wtaGVhZGVyPVVzZXIK</text>
+        <text encoding="base64">dmVyc2lvbi1jb2wtaGVhZGVyPVZlcnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3JhbnQtc3VmZml4PUdyYW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
