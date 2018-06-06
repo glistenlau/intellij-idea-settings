@@ -15,13 +15,13 @@
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/time/TimePrintableViewHelper.java" timestamp="1528309752285" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/time/TimePrintableViewHelper.java" timestamp="1528326308973" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessRegionImportProcessor.oracle.properties" timestamp="1528323586349" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528324507322">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="77" column="15" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528326493031">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="45" column="73" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -31,24 +31,25 @@
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARModelElementType.java" timestamp="1528255177703" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/TemplateImportBase.java" timestamp="1528256205389" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.properties" timestamp="1528326517051" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/misc/DACAdminTestPage.java" timestamp="1528322491182">
         <mark key="[" line="129" column="93" />
         <mark key="]" line="129" column="93" />
         <mark key="." line="129" column="93" />
         <mark key="^" line="129" column="93" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/spreadsheet/ExportXMLToExcel.java" timestamp="1528323211390" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/spreadsheet/ExportXMLToExcel.java" timestamp="1528326393614" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARAccessType.java" timestamp="1528309205144">
         <mark key="[" line="57" column="5" />
         <mark key="]" line="62" column="4" />
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528325131157">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="51" column="62" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528326542124">
+        <mark key="[" line="85" column="78" />
+        <mark key="]" line="85" column="88" />
+        <mark key="." line="85" column="88" />
+        <mark key="^" line="85" column="88" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessDetailInfo.java" timestamp="1528254171942" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
@@ -92,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGFwZXN0cnkuanNvbi5YTUw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>addStaticColumnHeaders</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -104,34 +105,34 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5IZWFkZXIySW5kZXhNYXAucHV0KGFjY2Vzc1R5cGVTdHIsIGNvbE51bSk7CiAgICAgICAgY29sdW1uVHlwZXMuc2V0QXR0cmlidXRlKCJjb2wiICsgY29sTnVtLCAic3RyaW5nIik7CiAgICAgICAgY29sdW1uSGVhZGVyLnNldEF0dHJpYnV0ZSgiY29sIiArIGNvbE51bSsrLCBhY2Nlc3NUeXBlU3RyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGFwZXN0cnkuanNvbi5YTUw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5YTUxVdGlsOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUudGFwZXN0cnkuanNvbi5YTUw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5NYXRyaXhSZXBvcnREZWZpbml0aW9uOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5YTUxVdGlsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5nZXRBZGRpdGlvbmFsTmFtZXNwYWNlcygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmNvbW1vbi5NYXRyaXhSZXBvcnREZWZpbml0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93LmdldEEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdy5nZXRBZGRpdGlvbmFsTmFtZXNwYWNlcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93LmdldEEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbHVtbkhlYWRlcjJJbmRleE1hcC5wdXQobWVOYW1lLCBjb2xJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbHVtblR5cGVzLnNldEF0dHJpYnV0ZSgiY29sIiArIGNvbEluZGV4LCAic3RyaW5nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbHVtbkhlYWRlcjJJbmRleE1hcC5wdXQobWVOYW1lLCBjb2xJbmRleCk7Cg==</text>
       </register>
     </registers>
     <search>
