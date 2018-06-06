@@ -3,24 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528251353226" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528252462740" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/time/TimePrintableViewHelper.java" timestamp="1528220708233" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessRegionImportProcessor.oracle.properties" timestamp="1528250773609" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528250456075">
         <mark key="[" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessDetailInfo.java" timestamp="1528251432618" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
-        <mark key="[" line="396" column="50" />
-        <mark key="]" line="396" column="50" />
-        <mark key="^" line="396" column="50" />
-        <mark key="." line="396" column="50" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528253971424">
+        <mark key="[" line="65" column="64" />
+        <mark key="]" line="65" column="60" />
+        <mark key="." line="65" column="60" />
+        <mark key="^" line="65" column="60" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528252426241">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="46" column="62" />
-        <mark key="." line="46" column="62" />
-        <mark key="^" line="46" column="62" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528253913587">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="67" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/AccountAdminControlNew.java" timestamp="1528219272419" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/Account.java" timestamp="1528252021343" />
@@ -62,11 +62,11 @@
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AccessRegions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AccessRegions</text>
+        <text>Write</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
@@ -81,28 +81,28 @@
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmVudGl0eS5BY2NvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWNjZXNzVHlwZSBhY2Nlc3NUeXBlID0gQWNjZXNzVHlwZS5nZXRCeUNvZGUocnMuZ2V0U3RyaW5nKCJBY2Nlc3NUeXBlIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjeWNsZS5nZXRQYWdlKCkuZ2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ckRldGFpbCA9PSBudWxsIHx8ICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJEZXRhaWwuZ2V0Cg==</text>
       </register>
     </registers>
     <search>
