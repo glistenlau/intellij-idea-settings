@@ -3,25 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528250814935" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/AcctAdminServicesImpl.java" timestamp="1528251353226" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/time/TimePrintableViewHelper.java" timestamp="1528220708233" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessRegionImportProcessor.oracle.properties" timestamp="1528250773609" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528250456075">
         <mark key="[" line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessDetailInfo.java" timestamp="1528251432618" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
         <mark key="]" line="396" column="50" />
         <mark key="^" line="396" column="50" />
         <mark key="." line="396" column="50" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528250834281">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528252426241">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="46" column="62" />
+        <mark key="." line="46" column="62" />
+        <mark key="^" line="46" column="62" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/AccountAdminControlNew.java" timestamp="1528219272419" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/Account.java" timestamp="1528252021343" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/ModelImportControl.java" timestamp="1528147062544" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/AccessRegionImportProcessor.java" timestamp="1528232239034" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/EntityMapFactory.java" timestamp="1528228742795" />
@@ -31,12 +33,13 @@
         <mark key="." line="110" column="19" />
         <mark key="^" line="110" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.oracle.properties" timestamp="1528250839232">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.oracle.properties" timestamp="1528251942268">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="18" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="26" column="10" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/entity/BaseEntity.java" timestamp="1528252208706" />
       <file name="/fragment.java" timestamp="1528220539473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,19 +63,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AcctAdminServicesImpl</text>
+        <text>AccessRegions</text>
       </register>
       <register name="-" type="4">
-        <text>AcctAdminServicesImpl</text>
+        <text>AccessRegions</text>
       </register>
       <register name="/" type="4">
         <text>findbugs</text>
       </register>
       <register name="0" type="4">
-        <text>StringEscapeUtils.escapeHtml(</text>
+        <text>COMPANY_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
@@ -81,25 +84,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjeWNsZS5nZXRQYWdlKCkuZ2V0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmVudGl0eS5BY2NvdW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjeWNsZS5nZXRQYWdlKCkuZ2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
