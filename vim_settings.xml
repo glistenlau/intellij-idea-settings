@@ -9,6 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.properties" timestamp="1528310412563">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" timestamp="1528405070077">
         <mark key="'" line="181" column="14" />
         <mark key="[" line="178" column="69" />
@@ -31,12 +36,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/misc/DACAdminTestPage.java" timestamp="1528410303178">
-        <mark key="[" line="138" column="34" />
-        <mark key="]" line="138" column="34" />
-        <mark key="." line="138" column="34" />
-        <mark key="^" line="138" column="34" />
-      </file>
+      <file name="$USER_HOME$/Developer/planning/3rdparty/adaptive/common/service-common/service-common-1.0.2-sources.jar!/com/adaptiveinsights/core/datalayer/DataSourceManager.java" timestamp="1528415088478" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/test/TestAcctAdminServicesImplForAssumptions.java" timestamp="1528407762011" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARAccessType.java" timestamp="1528309205144">
         <mark key="[" line="57" column="5" />
@@ -44,19 +44,14 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" timestamp="1528411497708">
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="54" />
-        <mark key="." line="37" column="54" />
-        <mark key="^" line="37" column="54" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" timestamp="1528415800958">
+        <mark key="'" line="99" column="25" />
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="44" column="28" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/TagAdminControl.java" timestamp="1528393411869" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableViewHelper.java" timestamp="1528410146420">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="54" column="59" />
-        <mark key="." line="54" column="59" />
-        <mark key="^" line="54" column="59" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
         <mark key="]" line="396" column="50" />
@@ -64,10 +59,16 @@
         <mark key="." line="396" column="50" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/AccountAdminControlNew.java" timestamp="1528393284782" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableView.java" timestamp="1528411461550">
-        <mark key="[" line="100" column="10" />
-        <mark key="]" line="100" column="10" />
-        <mark key="." line="100" column="10" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableView.java" timestamp="1528412173463">
+        <mark key="[" line="105" column="10" />
+        <mark key="]" line="105" column="10" />
+        <mark key="." line="105" column="10" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableViewHelper.java" timestamp="1528415887884">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/time/test/TestAPCalendarNavigator.java" timestamp="1528408598178" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.oracle.properties" timestamp="1528328968264">
@@ -95,57 +96,99 @@
       <jump line="147" column="35" filename="$USER_HOME$/Developer/metadataservice/metadataservice-perf/src/jmh/java/com/adaptiveinsights/metadataservice/accessregions/performance/state/DimensionAttributeFilterState.java" />
       <jump line="8010" column="68" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccountsModelImport.java" />
       <jump line="181" column="14" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.java" />
+      <jump line="43" column="42" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="61" column="132" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="62" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="63" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="64" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="65" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="66" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="67" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="68" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="69" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="71" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="72" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="73" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="74" column="116" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="75" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="76" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="77" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="78" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="79" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="80" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="81" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="82" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="83" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="84" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="85" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="86" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="87" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="88" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="89" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="90" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="91" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="92" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="93" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="94" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="95" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="97" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="98" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="99" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="100" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="101" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="102" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
+      <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>execute</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>findbugs</text>
+        <text encoding="base64">PHJvdyA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb2x1bW5IZWFkZXIySW5kZXhNYXAucHV0KGFjY2Vzc1R5cGVTdHIsIGNvbE51bSk7CiAgICAgICAgY29sdW1uVHlwZXMuc2V0QXR0cmlidXRlKCJjb2wiICsgY29sTnVtLCAic3RyaW5nIik7CiAgICAgICAgY29sdW1uSGVhZGVyLnNldEF0dHJpYnV0ZSgiY29sIiArIGNvbE51bSsrLCBhY2Nlc3NUeXBlU3RyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5UZXN0Q2FzZTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tZXRlcndhcmUuc2VydmxldHVuaXQuU2VydmxldFRlc3RDYXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbm5lY3Rpb24gY29ubjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbm4ucm9sbGJhY2soKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>finally {
-            DataSourceManager.put(conn);
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlNRTEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlJlc3VsdFNldDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBEYXRhU291cmNlTWFuYWdlci5nZXQoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlByZXBhcmVkU3RhdGVtZW50Owo=</text>
       </register>
     </registers>
     <search>
-      <last-search>findbugs</last-search>
+      <last-search encoding="base64">PHJvdyA=</last-search>
       <last-offset />
-      <last-pattern>findbugs</last-pattern>
+      <last-pattern encoding="base64">PHJvdyA=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -155,6 +198,8 @@
         <entry encoding="base64">XDxPcHRpb25hbFw+</entry>
         <entry encoding="base64">XDxUaGVcPg==</entry>
         <entry>findbugs</entry>
+        <entry encoding="base64">PA==</entry>
+        <entry encoding="base64">PHJvdyA=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
