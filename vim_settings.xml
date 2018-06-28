@@ -9,37 +9,35 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/BaseEvaluator.java" timestamp="1529959141150" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="29" column="67" />
         <mark key="." line="29" column="67" />
         <mark key="^" line="29" column="67" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/consolidation/ConsolidationBasePage.java" timestamp="1529964340405" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.properties" timestamp="1528404699849">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/admin/ConsolidationPctSheetPage.java" timestamp="1529964065421" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/modelImport/ARAccessType.java" timestamp="1528309205144">
         <mark key="[" line="57" column="5" />
         <mark key="]" line="62" column="4" />
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/APAdminBasePage.java" timestamp="1529964648456" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/Acct.java" timestamp="1530043894737" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/CacheEntity.java" timestamp="1530043671259" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/Evaluator.java" timestamp="1529959668852" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodType.java" timestamp="1530221813680">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/sheet/Aggregator.java" timestamp="1529953126296">
         <mark key="[" line="948" column="0" />
         <mark key="]" line="948" column="0" />
         <mark key="." line="948" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/AcctMap.oracle.properties" timestamp="1529955011372" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
         <mark key="]" line="396" column="50" />
@@ -64,8 +62,6 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/DimMap.java" timestamp="1530047120352" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestAPMaps.java" timestamp="1530044018383" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.oracle.properties" timestamp="1528328968264">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="25" />
@@ -78,7 +74,6 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="330" column="6" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1529948985642" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/MappingImportControl.java" timestamp="1528498630823">
         <mark key="[" line="170" column="15" />
         <mark key="]" line="170" column="18" />
@@ -91,7 +86,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/AcctMap.java" timestamp="1529954978000" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/AcctMap.java" timestamp="1530221265318" />
     </filemarks>
     <jumps>
       <jump line="318" column="43" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" />
@@ -157,10 +152,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29vcmQuYQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHlwZUNvZGUuZXF1YWxzKCJGIikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -169,38 +164,36 @@
         <text encoding="base64">ICAgICAgICBjb2x1bW5IZWFkZXIySW5kZXhNYXAucHV0KGFjY2Vzc1R5cGVTdHIsIGNvbE51bSk7CiAgICAgICAgY29sdW1uVHlwZXMuc2V0QXR0cmlidXRlKCJjb2wiICsgY29sTnVtLCAic3RyaW5nIik7CiAgICAgICAgY29sdW1uSGVhZGVyLnNldEF0dHJpYnV0ZSgiY29sIiArIGNvbE51bSsrLCBhY2Nlc3NUeXBlU3RyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29vcmQuYQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHlwZUNvZGUuZXF1YWxzKCJGIikpCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmVudGl0eS5QZXJtaXNzaW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29vcmQuYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hZGFwdGl2ZXBsYW5uaW5nLmVudGl0eS5QZXJtaXNzaW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgKCkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>finally {
             DataSourceManager.put(conn);
         }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBEYXRhU291cmNlTWFuYWdlci5nZXQoKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>finally {
-            DataSourceManager.put(conn);
-        }</text>
       </register>
       <register name=":" type="4">
         <text>818</text>
