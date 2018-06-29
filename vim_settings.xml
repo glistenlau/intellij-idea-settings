@@ -43,7 +43,7 @@
         <mark key="." line="203" column="23" />
         <mark key="^" line="203" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530234061682">
+      <file name="/Dummy.txt" timestamp="1530235757457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
@@ -76,11 +76,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530234504038">
-        <mark key="[" line="63" column="55" />
-        <mark key="]" line="63" column="55" />
-        <mark key="." line="63" column="55" />
-        <mark key="^" line="63" column="55" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530235724356">
+        <mark key="[" line="36" column="68" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.oracle.properties" timestamp="1528328968264">
         <mark key="[" line="41" column="24" />
@@ -93,6 +93,9 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="330" column="6" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapRequest.java" timestamp="1530234928080">
+        <mark key="[" line="38" column="26" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/component/admin/MappingImportControl.java" timestamp="1528498630823">
         <mark key="[" line="170" column="15" />
@@ -171,11 +174,11 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
