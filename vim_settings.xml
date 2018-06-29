@@ -9,11 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530309613156">
-        <mark key="[" line="113" column="76" />
-        <mark key="]" line="113" column="75" />
-        <mark key="." line="113" column="75" />
-        <mark key="^" line="113" column="75" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530310352519">
+        <mark key="[" line="110" column="70" />
+        <mark key="]" line="106" column="70" />
+        <mark key="." line="106" column="70" />
+        <mark key="^" line="106" column="70" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -188,11 +188,11 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>PROPORTIONAL</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
