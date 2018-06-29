@@ -9,11 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530307382634">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="160" column="121" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530308326167">
+        <mark key="[" line="121" column="29" />
+        <mark key="]" line="121" column="27" />
+        <mark key="." line="121" column="27" />
+        <mark key="^" line="121" column="27" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -82,7 +82,7 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530305758528">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530307668378">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -189,10 +189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLnN0dWJiaW5nLk9uZ29pbmdTdHViYmluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0dWFsID0gY29uc29saWRhdGlvbk1ldGhvZE1hcC5nZXRDb25zb2xpZGF0aW9uTWVob2RUeXBlKHVwcGVyQm91bmQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>nextAnswers</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -201,7 +201,7 @@
         <text encoding="base64">ICAgICAgICB3aGVuKG1vY2tlZFJlc3VsdFNldC5uZXh0KCkpLnRoZW5BbnN3ZXIoQWRkaXRpb25hbEFuc3dlcnMucmV0dXJuc0VsZW1lbnRzT2YobmV4dEFuc3dlcnMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLnN0dWJiaW5nLk9uZ29pbmdTdHViYmluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0dWFsID0gY29uc29saWRhdGlvbk1ldGhvZE1hcC5nZXRDb25zb2xpZGF0aW9uTWVob2RUeXBlKHVwcGVyQm91bmQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
@@ -210,25 +210,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoKEJvb2xlYW5BcnJheUxpc3QpIG5leHRBbnN3ZXJzKS5hZGQoZmFsKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLnN0dWJiaW5nLk9uZ29pbmdTdHViYmluZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuTmV4dC50aGVuUmV0dXJuKGZhbHNlKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAoKEJvb2xlYW5BcnJheUxpc3QpIG5leHRBbnN3ZXJzKS5hZGQoZmFsKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPbmdvaW5nU3R1YmJpbmc8RG91YmxlPiB3aGVuRG91YmxlID0gd2hlbihtb2NrZWRSZXN1bHRTZXQuZ2V0RG91YmxlKGFueShTdHJpbmcuY2xhc3MpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuTmV4dC50aGVuUmV0dXJuKGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPbmdvaW5nU3R1YmJpbmc8U3RyaW5nPiB3aGVuU3RyaW5nID0gd2hlbihtb2NrZWRSZXN1bHRTZXQuZ2V0U3RyaW5nKGFueShTdHJpbmcuY2xhc3MpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPbmdvaW5nU3R1YmJpbmc8Qm9vbGVhbj4gd2hlbk5leHQgPSB3aGVuKG1vY2tlZFJlc3VsdFNldC5uZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBPbmdvaW5nU3R1YmJpbmc8RG91YmxlPiB3aGVuRG91YmxlID0gd2hlbihtb2NrZWRSZXN1bHRTZXQuZ2V0RG91YmxlKGFueShTdHJpbmcuY2xhc3MpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBPbmdvaW5nU3R1YmJpbmc8U3RyaW5nPiB3aGVuU3RyaW5nID0gd2hlbihtb2NrZWRSZXN1bHRTZXQuZ2V0U3RyaW5nKGFueShTdHJpbmcuY2xhc3MpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>818</text>
