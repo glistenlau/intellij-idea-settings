@@ -9,11 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530302940555">
-        <mark key="[" line="116" column="17" />
-        <mark key="]" line="116" column="17" />
-        <mark key="." line="116" column="17" />
-        <mark key="^" line="116" column="17" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530304634286">
+        <mark key="[" line="146" column="34" />
+        <mark key="]" line="146" column="47" />
+        <mark key="." line="146" column="47" />
+        <mark key="^" line="146" column="47" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -82,7 +82,7 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530302650115">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1530304186771">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
@@ -188,11 +188,11 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>fullLowerLimit</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>fullLowerLimit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -201,22 +201,22 @@
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKENvbnNvbGlkYXRpb25NZXRob2RUeXBlLk5PTkUsIGFjdHVhbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIG1vY2tlZENvbm4gPSBtb2NrKENvbm5lY3Rpb24uY2xhc3MpOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IG1vY2tlZFNhdGVtZW50ID0gbW9jayhQcmVwYXJlZFN0YXRlbWVudC5jbGFzcyk7CiAgICAgICAgUmVzdWx0U2V0IG1vY2tlZFJlc3VsdFNldCA9IG1vY2soUmVzdWx0U2V0LmNsYXNzKTsKCiAgICAgICAgd2hlbihtb2NrZWRDb25uLnByZXBhcmVTdGF0ZW1lbnQoYW55KFN0cmluZy5jbGFzcykpKS50aGVuUmV0dXJuKG1vY2tlZFNhdGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tlZFNhdGVtZW50LmV4ZWN1dGVRdWVyeSgpKS50aGVuUmV0dXJuKG1vY2tlZFJlc3VsdFNldCk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uIG1vY2tlZENvbm4gPSBtb2NrKENvbm5lY3Rpb24uY2xhc3MpOwogICAgICAgIFByZXBhcmVkU3RhdGVtZW50IG1vY2tlZFNhdGVtZW50ID0gbW9jayhQcmVwYXJlZFN0YXRlbWVudC5jbGFzcyk7CiAgICAgICAgUmVzdWx0U2V0IG1vY2tlZFJlc3VsdFNldCA9IG1vY2soUmVzdWx0U2V0LmNsYXNzKTsKCiAgICAgICAgd2hlbihtb2NrZWRDb25uLnByZXBhcmVTdGF0ZW1lbnQoYW55KFN0cmluZy5jbGFzcykpKS50aGVuUmV0dXJuKG1vY2tlZFNhdGVtZW50KTsKICAgICAgICB3aGVuKG1vY2tlZFNhdGVtZW50LmV4ZWN1dGVRdWVyeSgpKS50aGVuUmV0dXJuKG1vY2tlZFJlc3VsdFNldCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -225,7 +225,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
