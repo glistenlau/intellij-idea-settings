@@ -21,6 +21,8 @@
         <mark key="." line="29" column="67" />
         <mark key="^" line="29" column="67" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/CompositeVC.java" timestamp="1530563416871" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/SynthesizedVal.java" timestamp="1530564025790" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.properties" timestamp="1528404699849">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="20" />
@@ -41,9 +43,6 @@
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/BaseVC.java" timestamp="1530561943427" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/CC.java" timestamp="1530561379580" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodType.java" timestamp="1530233589424">
-        <mark key="^" line="47" column="23" />
-      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapResponse.java" timestamp="1530224418848">
         <mark key="[" line="113" column="14" />
         <mark key="]" line="203" column="23" />
@@ -55,6 +54,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/VC.java" timestamp="1530561411764" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConfModel.java" timestamp="1530563213329" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
         <mark key="]" line="396" column="50" />
@@ -111,10 +111,10 @@
         <mark key="^" line="330" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConfModelFreezer.java" timestamp="1530297482046" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530562842759">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530564048233">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapRequest.java" timestamp="1530311916977">
         <mark key="[" line="42" column="8" />
@@ -206,7 +206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNhbAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -218,34 +218,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gY2hlY2sgdGhlIGxvd2VyIGxpbWl0IGZvciBGVUxMIGNvbnNvbGlkYXRpb24gbWV0aG9kLCBpdCBzaG91bGQgYmUgMzAuMCsKICAgICAgICAgICAgbG93ZXJMaW1pdCA9IGNvbnNvbGlkYXRpb25NZXRob2RNYXAuZ2V0UHJvcG9ydGlvbmFsUGVyY2VudGFnZUxpbWl0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNhbAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3IuCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBWYWwgZ2V0Q29uc29saWRhdGlvbkZhdG9yKFZhbCBmYWN0b3IpIHRocm93cyBBUEV4Y2VwdGlvbiB7CiAgICAgICAgQ29uc29saWRhdGlvbk1ldGhvZFR5cGUgbWV0aG9kVHlwZSA9IGNvbnNvbGlkYXRpb25NZXRob2RNYXAuZ2V0Q29uc29saWRhdGlvbk1laG9kVHlwZShmYWN0b3IuZ2V0RmFjdCgpKTsKICAgIH0KIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2Yy5nZXQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHNhbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnNvbGlkYXRpb25NZXRob2RNYXAK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3IuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG93ZXJMaW1pdCA9IGNvbnNvbGlkYXRpb25NZXRob2RNYXAuZ2V0UHJvcG9ydGlvbmFsUGVyY2VudGFnZUxpbWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2Yy5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Tm90TnVsbChsb3dlckxpbWl0KTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnNvbGlkYXRpb25NZXRob2RNYXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Tm90TnVsbChsb3dlckxpbWl0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG93ZXJMaW1pdCA9IGNvbnNvbGlkYXRpb25NZXRob2RNYXAuZ2V0UHJvcG9ydGlvbmFsUGVyY2VudGFnZUxpbWl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Tm90TnVsbChsb3dlckxpbWl0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0Tm90TnVsbChsb3dlckxpbWl0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>2197</text>
