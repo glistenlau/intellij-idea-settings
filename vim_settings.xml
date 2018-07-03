@@ -15,6 +15,12 @@
         <mark key="." line="159" column="45" />
         <mark key="^" line="159" column="45" />
       </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/BaseEvaluator.java" timestamp="1530650651552">
+        <mark key="[" line="580" column="36" />
+        <mark key="]" line="580" column="57" />
+        <mark key="." line="580" column="57" />
+        <mark key="^" line="580" column="57" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="29" column="67" />
@@ -69,11 +75,11 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530649227557">
-        <mark key="[" line="94" column="45" />
-        <mark key="]" line="94" column="66" />
-        <mark key="^" line="94" column="66" />
-        <mark key="." line="94" column="66" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530650351106">
+        <mark key="[" line="73" column="78" />
+        <mark key="]" line="73" column="82" />
+        <mark key="^" line="73" column="82" />
+        <mark key="." line="73" column="82" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapRequest.java" timestamp="1530311916977">
         <mark key="[" line="42" column="8" />
@@ -111,7 +117,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/VC.java" timestamp="1530561411764" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConfModel.java" timestamp="1530563213329" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConfModel.java" timestamp="1530650832605">
+        <mark key="[" line="2243" column="36" />
+        <mark key="]" line="2243" column="57" />
+        <mark key="." line="2243" column="57" />
+        <mark key="^" line="2243" column="57" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/rules/allocations/AllocationRuleEdit.java" timestamp="1527797320990">
         <mark key="[" line="396" column="50" />
         <mark key="]" line="396" column="50" />
@@ -217,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>getFactor</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>getFactor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
