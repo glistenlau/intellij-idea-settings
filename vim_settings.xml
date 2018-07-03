@@ -9,11 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530579791161">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="51" />
-        <mark key="." line="227" column="0" />
-        <mark key="^" line="211" column="50" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530580742480">
+        <mark key="[" line="159" column="41" />
+        <mark key="]" line="159" column="45" />
+        <mark key="." line="159" column="45" />
+        <mark key="^" line="159" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -215,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>lower</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>lower</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
