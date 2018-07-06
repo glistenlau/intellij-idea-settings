@@ -114,7 +114,12 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1530915402103" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1530918913203">
+        <mark key="[" line="281" column="64" />
+        <mark key="]" line="282" column="0" />
+        <mark key="^" line="282" column="23" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1530902878580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -238,8 +243,8 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ancestor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tpdG8uCg==</text>
       </register>
       <register name="-" type="4">
         <text>ancestor</text>
@@ -250,37 +255,37 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2QgcmV0dXJucyB0aGUgbWlub3JpdHkgaW50ZXJlc3QgcGVyY2VudGFnZSBhbW91bnQgdG8gdXNlIGFzIHRoZSBkYXRhCiAgICAgKiByb2xscyB1cCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdG8gdGhlIGFuY2VzdG9yIHBsYW4uICBXZSBjYWxsIHRoaXMKICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBiZSBhIGRpcmVjdCBjaGlsZCBvZiB0aGUgYW5jZXN0b3IsIGEKICAgICAqIGdyYW5kLWNoaWxkLCBhIGdyZWF0LWdyYW5kLWNoaWxkLCB3aGF0ZXZlciwgYnV0IHRoZXJlIG11c3QgYmUgYSBhbmNlc3Rvci1kZXNjZW5kYW50CiAgICAgKiByZWxhdGlvbnNoaXAgYmV0d2VlbiB0aGUgdHdvLgogICAgICoKICAgICAqIElmIHRoaXMgbWV0aG9kIHJldHVybnMgbnVsbCwgbm8gbWlub3JpdHkgaW50ZXJlc3QgdmFsdWVzIGhhdmUgYmVlbiBzZXQgZm9yIHRoZQogICAgICogZGVzY2VuZGFudCBwbGFuIG9yIGEgcGFyZW50IHBsYW4gb24gdGhlIHBhdGggdG8gdGhlIGFuY2VzdG9yLiAgSWYgdGhpcyBtZXRob2QgcmV0dXJucwogICAgICogYSBub24tbnVsbCB2YWx1ZSwgdGhlIHZhbHVlIHJldHVybmVkIHdpbGwgYmUgYWxsIG1pbm9yaXR5IGludGVyZXN0IHZhbHVlcyBtdWx0aXBsaWVkCiAgICAgKiB0b2dldGhlciBvbiB0aGUgcGF0aCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdXAgdG8gYnV0IG5vIGluY2x1ZGluZyB0aGUgYW5jZXN0b3IgcGxhbi4KICAgICAqIEBwYXJhbSBkZXNjZW5kYW50IHRoZSBkZXNjZW5kYW50IHBsYW4KICAgICAqIEBwYXJhbSBhbmNlc3RvciB0aGUgYW5jZXN0b3IgcGxhbgogICAgICogQHBhcmFtIHRzIGEgdGltZXNsb3QgaW4gcmVsYXRpdmUgdW5pdHMgKDAgPSBpbml0aWFsIGJhbGFuY2UgZm9yIHRoZSB2ZXJzaW9uKQogICAgICogQHBhcmFtIHN0cmF0YUFic0xldmVsIHRoZSBzdHJhdGEgYWJzIGxldmVsIGFzc29jaWF0ZWQgd2l0aCB0aGUgYWNjb3VudCB3ZSBhcmUgZ29pbmcgdG8gY29udmVydC4KICAgICAqIEBwYXJhbSBldmFsdWF0b3IgdGhlIGV2YWx1YXRvcgogICAgICov</text>
       </register>
-      <register name="1" type="4">
-        <text>, a
-     * grand-child, a great-grand-child, whatever, but there must be a ancestor-descendant
-     * relationship between the two.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tpdG8uCg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBvbmx5IGJlIGEgZGlyZWN0IGNoaWxkIG9mIHRoZSBhbmNlc3RvciwgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFV0aWxzLnRlc3RNSVJvbGx1cHNTZXRVcChzdHJ1Y3R1cmUsIHZlcnNpb24sIGNhbGVuZGFyLCBjb25uKTsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFsIGNvbnNvbGlkYXRlTUlQY3QoVmFsIHBlcmNlbnRhZ2UpIHRocm93cyBBUEV4Y2VwdGlvbiB7CiAgICAgICAgQ29uc29saWRhdGlvbk1ldGhvZFR5cGUgbWV0aG9kVHlwZSA9IGdldE1hcHNXaXRob3V0U3BsaXRzKCkuZ2V0Q29uc29saWRhdGlvbk1ldGhvZE1hcCgpLmdldENvbnNvbGlkYXRpb25NZXRob2RUeXBlKHBlcmNlbnRhZ2UuZ2V0RmFjdCgpKTsKICAgICAgICAKICAgICAgICBpZiAobWV0aG9kVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBTeW50aGVzaXplZFZhbC5PTkU7CiAgICAgICAgfQogICAgICAgIHN3aXRjaCAobWV0aG9kVHlwZSkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICB9</text>
+        <text>, a
+     * grand-child, a great-grand-child, whatever, but there must be a ancestor-descendant
+     * relationship between the two.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBvbmx5IGJlIGEgZGlyZWN0IGNoaWxkIG9mIHRoZSBhbmNlc3RvciwgYQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGVyY2VudGFnZSA9PSBudWxsKSB7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsIGNvbnNvbGlkYXRlTUlQY3QoVmFsIHBlcmNlbnRhZ2UpIHRocm93cyBBUEV4Y2VwdGlvbiB7CiAgICAgICAgQ29uc29saWRhdGlvbk1ldGhvZFR5cGUgbWV0aG9kVHlwZSA9IGdldE1hcHNXaXRob3V0U3BsaXRzKCkuZ2V0Q29uc29saWRhdGlvbk1ldGhvZE1hcCgpLmdldENvbnNvbGlkYXRpb25NZXRob2RUeXBlKHBlcmNlbnRhZ2UuZ2V0RmFjdCgpKTsKICAgICAgICAKICAgICAgICBpZiAobWV0aG9kVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBTeW50aGVzaXplZFZhbC5PTkU7CiAgICAgICAgfQogICAgICAgIHN3aXRjaCAobWV0aG9kVHlwZSkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN5Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNSUNvbXB1dGVyIG1pQ29tcHV0ZXIgPSBNSUNvbXB1dGVyLmNyZWF0ZShnZXRWZXJzaW9uTWFwcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGVyY2VudGFnZSA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBzLmdldFMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBNSUNvbXB1dGVyIG1pQ29tcHV0ZXIgPSBNSUNvbXB1dGVyLmNyZWF0ZShnZXRWZXJzaW9uTWFwcygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>326</text>
