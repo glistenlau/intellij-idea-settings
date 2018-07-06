@@ -16,10 +16,10 @@
         <mark key="^" line="159" column="45" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/BaseEvaluator.java" timestamp="1530650651552">
-        <mark key="[" line="580" column="36" />
-        <mark key="]" line="580" column="57" />
-        <mark key="." line="580" column="57" />
-        <mark key="^" line="580" column="57" />
+        <mark key="[" line="579" column="36" />
+        <mark key="]" line="579" column="57" />
+        <mark key="." line="579" column="57" />
+        <mark key="^" line="579" column="57" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessType.java" timestamp="1528309036940">
         <mark key="[" line="25" column="5" />
@@ -114,8 +114,10 @@
         <mark key="." line="62" column="4" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1530900436001" />
-      <file name="/Dummy.txt" timestamp="1530649167125">
+      <file name="/Dummy.txt" timestamp="1530901598512">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/VC.java" timestamp="1530561411764" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConfModel.java" timestamp="1530655635809">
@@ -235,10 +237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>factorConsolidationAdjust</text>
+        <text>Add Consolidation Method Map into structure cache.</text>
       </register>
       <register name="-" type="4">
-        <text>factorConsolidationAdjust</text>
+        <text>Add Consolidation Method Map into structure cache.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
