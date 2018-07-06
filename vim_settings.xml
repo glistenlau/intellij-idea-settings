@@ -44,6 +44,11 @@
         <mark key="^" line="203" column="23" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/Evaluator.java" timestamp="1530833181185" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/sheet/Aggregator.java" timestamp="1529953126296">
+        <mark key="[" line="948" column="0" />
+        <mark key="]" line="948" column="0" />
+        <mark key="." line="948" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/printableview/AccessRegionsPrintableView.java" timestamp="1529431504097">
         <mark key="[" line="74" column="10" />
         <mark key="]" line="74" column="10" />
@@ -75,11 +80,11 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530833883818">
-        <mark key="[" line="117" column="64" />
-        <mark key="]" line="118" column="6" />
-        <mark key="^" line="118" column="6" />
-        <mark key="." line="118" column="6" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/MIComputer.java" timestamp="1530837160433">
+        <mark key="[" line="302" column="4" />
+        <mark key="]" line="302" column="9" />
+        <mark key="^" line="302" column="9" />
+        <mark key="." line="302" column="9" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapRequest.java" timestamp="1530311916977">
         <mark key="[" line="42" column="8" />
@@ -148,7 +153,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/myplan/ExplainCell.java" timestamp="1530834215498" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/ui/page/myplan/ExplainCell.java" timestamp="1530837511839">
+        <mark key="[" line="427" column="0" />
+        <mark key="]" line="427" column="0" />
+        <mark key="." line="427" column="0" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/util/modelimport/AccessRegionModelImport.java" timestamp="1528503749523">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -228,11 +237,11 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBzLmdldFMK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -240,7 +249,22 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2QgcmV0dXJucyB0aGUgbWlub3JpdHkgaW50ZXJlc3QgcGVyY2VudGFnZSBhbW91bnQgdG8gdXNlIGFzIHRoZSBkYXRhCiAgICAgKiByb2xscyB1cCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdG8gdGhlIGFuY2VzdG9yIHBsYW4uICBXZSBjYWxsIHRoaXMKICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBiZSBhIGRpcmVjdCBjaGlsZCBvZiB0aGUgYW5jZXN0b3IsIGEKICAgICAqIGdyYW5kLWNoaWxkLCBhIGdyZWF0LWdyYW5kLWNoaWxkLCB3aGF0ZXZlciwgYnV0IHRoZXJlIG11c3QgYmUgYSBhbmNlc3Rvci1kZXNjZW5kYW50CiAgICAgKiByZWxhdGlvbnNoaXAgYmV0d2VlbiB0aGUgdHdvLgogICAgICoKICAgICAqIElmIHRoaXMgbWV0aG9kIHJldHVybnMgbnVsbCwgbm8gbWlub3JpdHkgaW50ZXJlc3QgdmFsdWVzIGhhdmUgYmVlbiBzZXQgZm9yIHRoZQogICAgICogZGVzY2VuZGFudCBwbGFuIG9yIGEgcGFyZW50IHBsYW4gb24gdGhlIHBhdGggdG8gdGhlIGFuY2VzdG9yLiAgSWYgdGhpcyBtZXRob2QgcmV0dXJucwogICAgICogYSBub24tbnVsbCB2YWx1ZSwgdGhlIHZhbHVlIHJldHVybmVkIHdpbGwgYmUgYWxsIG1pbm9yaXR5IGludGVyZXN0IHZhbHVlcyBtdWx0aXBsaWVkCiAgICAgKiB0b2dldGhlciBvbiB0aGUgcGF0aCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdXAgdG8gYnV0IG5vIGluY2x1ZGluZyB0aGUgYW5jZXN0b3IgcGxhbi4KICAgICAqIEBwYXJhbSBkZXNjZW5kYW50IHRoZSBkZXNjZW5kYW50IHBsYW4KICAgICAqIEBwYXJhbSBhbmNlc3RvciB0aGUgYW5jZXN0b3IgcGxhbgogICAgICogQHBhcmFtIHRzIGEgdGltZXNsb3QgaW4gcmVsYXRpdmUgdW5pdHMgKDAgPSBpbml0aWFsIGJhbGFuY2UgZm9yIHRoZSB2ZXJzaW9uKQogICAgICogQHBhcmFtIHN0cmF0YUFic0xldmVsIHRoZSBzdHJhdGEgYWJzIGxldmVsIGFzc29jaWF0ZWQgd2l0aCB0aGUgYWNjb3VudCB3ZSBhcmUgZ29pbmcgdG8gY29udmVydC4KICAgICAqIEBwYXJhbSBldmFsdWF0b3IgdGhlIGV2YWx1YXRvcgogICAgICov</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBzLmdldFMK</text>
+      </register>
+      <register name="q" type="4">
+        <text>kj</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgVmFsIGdldENvbnNvbGlkYXRlZE1JUGN0KFZhbCB2YWwpIHsKICAgICAgICBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZSBtZXRob2RUeXBlID0gZ2V0TWFwc1dpdGhvdXRTcGxpdHMoKS5nZXRDb25zb2xpZGF0aW9uTWV0aG9kTWFwKCkuZ2V0Q29uc29saWRhdGlvbk1ldGhvZFR5cGUodmFsLmdldEZhY3QoKSk7CiAgICAgICAgc3dpdGNoIChtZXRob2RUeXBlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KIA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRNYXBzV2l0aG91dFNwbGl0cygpLmdldENvbnNvbGlkYXRpb25NZXRob2RNYXAoKS5nZXRDb25zb2xpZGF0aW9uTWV0aG9kVHlwZSgpCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>We call this
      * the &quot;factor&quot;.  The descendant can be a direct child of the ancestor, a
      * grand-child, a great-grand-child, whatever, but there must be a ancestor-descendant
@@ -251,32 +275,17 @@
      * a non-null value, the value returned will be all minority interest values multiplied
      * together on the path from the descendant plan up to but no including the ancestor plan.</text>
       </register>
-      <register name="q" type="4">
-        <text>kj</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqZnVsbAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yID0gZmFjdG9yQ29uc29saWRhdGlvbkFkYWp1c3RtZW50KGZhY3Rvcik7Cg==</text>
+        <text encoding="base64">ICAgICAqZnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uc29saWRhdGVkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBWYWwgZmFjdG9yID0gcmVhZEZhY3RvcihwbGFuLCB0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>995</text>
