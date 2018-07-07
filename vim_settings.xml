@@ -9,11 +9,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530580742480">
-        <mark key="[" line="159" column="41" />
-        <mark key="]" line="159" column="45" />
-        <mark key="." line="159" column="45" />
-        <mark key="^" line="159" column="45" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/test/TestConsolidationMethodMap.java" timestamp="1530921825621">
+        <mark key="[" line="207" column="4" />
+        <mark key="]" line="191" column="10" />
+        <mark key="." line="191" column="10" />
+        <mark key="^" line="191" column="10" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/BaseEvaluator.java" timestamp="1530650651552">
         <mark key="[" line="580" column="36" />
@@ -114,11 +114,11 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1530920957103">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="111" column="11" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1530922038549">
+        <mark key="[" line="1623" column="12" />
+        <mark key="]" line="1626" column="15" />
+        <mark key="^" line="1626" column="15" />
+        <mark key="." line="1626" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1530902878580">
         <mark key="[" line="0" column="0" />
@@ -243,11 +243,11 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xpZGF0aW9uTWV0aG9kTWFwIG1hcCA9IG5ldyBDb25zb2xpZGF0aW9uTWV0aG9kTWFwKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>consolidationMethodMap</text>
       </register>
       <register name="-" type="4">
-        <text>ancestor</text>
+        <text>consolidationMethodMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -256,36 +256,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBtZXRob2QgcmV0dXJucyB0aGUgbWlub3JpdHkgaW50ZXJlc3QgcGVyY2VudGFnZSBhbW91bnQgdG8gdXNlIGFzIHRoZSBkYXRhCiAgICAgKiByb2xscyB1cCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdG8gdGhlIGFuY2VzdG9yIHBsYW4uICBXZSBjYWxsIHRoaXMKICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBiZSBhIGRpcmVjdCBjaGlsZCBvZiB0aGUgYW5jZXN0b3IsIGEKICAgICAqIGdyYW5kLWNoaWxkLCBhIGdyZWF0LWdyYW5kLWNoaWxkLCB3aGF0ZXZlciwgYnV0IHRoZXJlIG11c3QgYmUgYSBhbmNlc3Rvci1kZXNjZW5kYW50CiAgICAgKiByZWxhdGlvbnNoaXAgYmV0d2VlbiB0aGUgdHdvLgogICAgICoKICAgICAqIElmIHRoaXMgbWV0aG9kIHJldHVybnMgbnVsbCwgbm8gbWlub3JpdHkgaW50ZXJlc3QgdmFsdWVzIGhhdmUgYmVlbiBzZXQgZm9yIHRoZQogICAgICogZGVzY2VuZGFudCBwbGFuIG9yIGEgcGFyZW50IHBsYW4gb24gdGhlIHBhdGggdG8gdGhlIGFuY2VzdG9yLiAgSWYgdGhpcyBtZXRob2QgcmV0dXJucwogICAgICogYSBub24tbnVsbCB2YWx1ZSwgdGhlIHZhbHVlIHJldHVybmVkIHdpbGwgYmUgYWxsIG1pbm9yaXR5IGludGVyZXN0IHZhbHVlcyBtdWx0aXBsaWVkCiAgICAgKiB0b2dldGhlciBvbiB0aGUgcGF0aCBmcm9tIHRoZSBkZXNjZW5kYW50IHBsYW4gdXAgdG8gYnV0IG5vIGluY2x1ZGluZyB0aGUgYW5jZXN0b3IgcGxhbi4KICAgICAqIEBwYXJhbSBkZXNjZW5kYW50IHRoZSBkZXNjZW5kYW50IHBsYW4KICAgICAqIEBwYXJhbSBhbmNlc3RvciB0aGUgYW5jZXN0b3IgcGxhbgogICAgICogQHBhcmFtIHRzIGEgdGltZXNsb3QgaW4gcmVsYXRpdmUgdW5pdHMgKDAgPSBpbml0aWFsIGJhbGFuY2UgZm9yIHRoZSB2ZXJzaW9uKQogICAgICogQHBhcmFtIHN0cmF0YUFic0xldmVsIHRoZSBzdHJhdGEgYWJzIGxldmVsIGFzc29jaWF0ZWQgd2l0aCB0aGUgYWNjb3VudCB3ZSBhcmUgZ29pbmcgdG8gY29udmVydC4KICAgICAqIEBwYXJhbSBldmFsdWF0b3IgdGhlIGV2YWx1YXRvcgogICAgICov</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb25zb2xpZGF0aW9uTWV0aG9kTWFwIG1hcCA9IG5ldyBDb25zb2xpZGF0aW9uTWV0aG9kTWFwKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RDb25zb2xpZGF0ZWRNSVJvbGx1cHMoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBWQ1Rlc3RIZWxwZXIuc2V0U2VyaWFsaXplVHhJc29sYXRpb24oZmFsc2UpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN0cnVjdHVyZSBzdHJ1Y3R1cmUgPSBudWxsOwogICAgICAgICAgICBDb25uZWN0aW9uIGNvbm4gPSBEYXRhU291cmNlTWFuYWdlci5nZXQoZmFsc2UgLyogbm8gYXV0b2NvbW1pdCAqLywgIjEiIC8qIGFkYXB0aXZlIHVzZXIgKi8pOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgU3RyaW5nIGNvbXBhbnlDb2RlID0gIkdSRUVOQ08iOwogICAgICAgICAgICAgICAgc3RydWN0dXJlID0gU3RydWN0dXJlLmdldERlZmF1bHQoY29tcGFueUNvZGUsIGNvbm4pOwogICAgICAgICAgICAgICAgVmVyc2lvbiB2ZXJzaW9uID0gVmVyc2lvbi5nZXRCeU5hbWUoIkJ1ZGdldCAyMDEzIiwgc3RydWN0dXJlLCBjb25uKTsKICAgICAgICAgICAgICAgIEFQQ2FsZW5kYXIgY2FsZW5kYXIgPSBBUENhbGVuZGFyRmFjdG9yeS5jcmVhdGUoc3RydWN0dXJlLCBjb25uKS5nZXRHTENhbGVuZGFyKCk7CiAgICAgICAgICAgICAgICBUaW1lSWRDb252ZXJ0ZXIgY29udmVydGVyID0gVGltZUlkQ29udmVydGVyLmNyZWF0ZShjYWxlbmRhcik7CiAgICAgICAgICAgICAgICAvLyBOb3cgc2V0IHRoaW5ncyB1cCBpbiB0aGUgZGF0YWJhc2UKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgQ0MuZ2V0CiAgICAgICAgICAgIH0KICAgIH0KIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDb25zb2xpZGF0aW9uTWV0aG9kTWFwLmNyZWF0ZSgsICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vY2tpdG8uCg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29saWRhdGlvbk1ldGhvZE1hcC5jcmVhdGVDb25zb2xpZGF0aW9uTWV0aG9kTWFwKCwgLCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFV0aWxzLnRlc3RNSVJvbGx1cHNTZXRVcChzdHJ1Y3R1cmUsIHZlcnNpb24sIGNhbGVuZGFyLCBjb25uKTsK</text>
+        <text encoding="base64">ICAgIENvbnNvbGlkYXRpb25NZXRob2RNYXAgZ2V0TW9ja0NNKCkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>, a
-     * grand-child, a great-grand-child, whatever, but there must be a ancestor-descendant
-     * relationship between the two.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29saWRhdGlvbk1ldGhvZE1hcC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIHRoZSAiZmFjdG9yIi4gIFRoZSBkZXNjZW5kYW50IGNhbiBvbmx5IGJlIGEgZGlyZWN0IGNoaWxkIG9mIHRoZSBhbmNlc3RvciwgYQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmFsIGNvbnNvbGlkYXRlTUlQY3QoVmFsIHBlcmNlbnRhZ2UpIHRocm93cyBBUEV4Y2VwdGlvbiB7CiAgICAgICAgQ29uc29saWRhdGlvbk1ldGhvZFR5cGUgbWV0aG9kVHlwZSA9IGdldE1hcHNXaXRob3V0U3BsaXRzKCkuZ2V0Q29uc29saWRhdGlvbk1ldGhvZE1hcCgpLmdldENvbnNvbGlkYXRpb25NZXRob2RUeXBlKHBlcmNlbnRhZ2UuZ2V0RmFjdCgpKTsKICAgICAgICAKICAgICAgICBpZiAobWV0aG9kVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBTeW50aGVzaXplZFZhbC5PTkU7CiAgICAgICAgfQogICAgICAgIHN3aXRjaCAobWV0aG9kVHlwZSkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>326</text>
