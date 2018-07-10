@@ -100,7 +100,12 @@
         <mark key="^" line="170" column="18" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/VCTestHelper.java" timestamp="1530915302302" />
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestCompositeActualsEvaluation.java" timestamp="1531181540768" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestCompositeActualsEvaluation.java" timestamp="1531182316042">
+        <mark key="[" line="173" column="27" />
+        <mark key="]" line="173" column="43" />
+        <mark key="^" line="173" column="43" />
+        <mark key="." line="173" column="43" />
+      </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/CompositeVC.java" timestamp="1530563416871" />
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/AccessRegions.properties" timestamp="1528404699849">
         <mark key="[" line="2" column="8" />
