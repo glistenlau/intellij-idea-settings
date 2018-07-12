@@ -104,11 +104,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531419605579">
-        <mark key="[" line="128" column="59" />
-        <mark key="]" line="128" column="59" />
-        <mark key="." line="128" column="59" />
-        <mark key="^" line="97" column="6" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531426724505">
+        <mark key="[" line="191" column="30" />
+        <mark key="]" line="191" column="24" />
+        <mark key="." line="191" column="24" />
+        <mark key="^" line="191" column="24" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestAPMaps.java" timestamp="1530312427764">
         <mark key="[" line="77" column="106" />
@@ -232,12 +232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>If there is any percentage in between 2 
-     * methods, we should execute the next consolidation method. So, if PROPORTIONAL is 
-     * 50%-74.999999999% and FULL is 75% - 100%, then 74.9999999999 will be considered FULL.</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>full</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -278,7 +276,7 @@
         <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>1474</text>
+        <text>199</text>
       </register>
     </registers>
     <search>
@@ -298,7 +296,6 @@
         <entry encoding="base64">PHJvdyA=</entry>
       </history-search>
       <history-cmd>
-        <entry>2197</entry>
         <entry>995</entry>
         <entry>326</entry>
         <entry>4414</entry>
@@ -318,6 +315,7 @@
         <entry>1450</entry>
         <entry>244</entry>
         <entry>1474</entry>
+        <entry>199</entry>
       </history-cmd>
       <history-expr />
       <history-input />
