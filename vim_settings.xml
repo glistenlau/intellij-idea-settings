@@ -104,11 +104,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531376230655">
-        <mark key="[" line="137" column="12" />
-        <mark key="]" line="137" column="12" />
-        <mark key="." line="137" column="12" />
-        <mark key="^" line="118" column="15" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531418245105">
+        <mark key="[" line="128" column="59" />
+        <mark key="]" line="128" column="59" />
+        <mark key="." line="128" column="59" />
+        <mark key="^" line="97" column="6" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestAPMaps.java" timestamp="1530312427764">
         <mark key="[" line="77" column="106" />
@@ -232,10 +232,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>noneLowerDecimalLimit</text>
+        <text>If there is any percentage in between 2 
+     * methods, we should execute the next consolidation method. So, if PROPORTIONAL is 
+     * 50%-74.999999999% and FULL is 75% - 100%, then 74.9999999999 will be considered FULL.</text>
       </register>
       <register name="-" type="4">
-        <text>noneLowerDecimalLimit</text>
+        <text>full</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
@@ -243,20 +245,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRG91YmxlIG5vbmVMb3dlckRlY2ltYWxMaW1pdDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>If there is any percentage in between 2 
+     * methods, we should execute the next consolidation method. So, if PROPORTIONAL is 
+     * 50%-74.999999999% and FULL is 75% - 100%, then 74.9999999999 will be considered FULL.</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnVsbEhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gZnVsbExvd2VyRGVjaW1hbExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZS5GVUxMOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobm9uZUhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gbm9uZUhpZ2hlckRlY2ltYWxMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gQ29uc29saWRhdGlvbk1ldGhvZFR5cGUuTk9ORTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZnVsbEhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gZnVsbExvd2VyRGVjaW1hbExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZS5GVUxMOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm9uZUhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gbm9uZUhpZ2hlckRlY2ltYWxMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gQ29uc29saWRhdGlvbk1ldGhvZFR5cGUuTk9ORTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -268,10 +272,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1474</text>
