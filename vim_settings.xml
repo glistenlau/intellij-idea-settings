@@ -104,11 +104,11 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531352232494">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-        <mark key="^" line="28" column="16" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531376230655">
+        <mark key="[" line="137" column="12" />
+        <mark key="]" line="137" column="12" />
+        <mark key="." line="137" column="12" />
+        <mark key="^" line="118" column="15" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/test/TestAPMaps.java" timestamp="1530312427764">
         <mark key="[" line="77" column="106" />
@@ -232,16 +232,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>noneLowerLimit</text>
+        <text>noneLowerDecimalLimit</text>
       </register>
       <register name="-" type="4">
-        <text>noneLowerLimit</text>
+        <text>noneLowerDecimalLimit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHJvdyA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRlc3QgdGhlIHZhbHVlIGFzIG1hcmtldGluZyByb2xscyB1cCB0byBzYWxlcwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG91YmxlIG5vbmVMb3dlckRlY2ltYWxMaW1pdDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -250,28 +250,28 @@
         <text>kj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZnVsbEhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gZnVsbExvd2VyRGVjaW1hbExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZS5GVUxMOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm9uZUhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gbm9uZUhpZ2hlckRlY2ltYWxMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gQ29uc29saWRhdGlvbk1ldGhvZFR5cGUuTk9ORTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbjsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9ycy4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1474</text>
