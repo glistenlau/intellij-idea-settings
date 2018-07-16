@@ -47,11 +47,14 @@
         <mark key="^" line="62" column="4" />
         <mark key="." line="62" column="4" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1531777085925">
-        <mark key="[" line="1385" column="77" />
-        <mark key="]" line="1385" column="77" />
-        <mark key="." line="1385" column="77" />
-        <mark key="^" line="1385" column="77" />
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.java" timestamp="1531781095643">
+        <mark key="[" line="1738" column="5" />
+        <mark key="]" line="1712" column="44" />
+        <mark key="." line="1712" column="44" />
+        <mark key="^" line="1712" column="44" />
+      </file>
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/report/matrix/test/TestMIComputer.oracle.properties" timestamp="1531780650367">
+        <mark key="[" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/cache/MapResponse.java" timestamp="1530224418848">
         <mark key="[" line="113" column="14" />
@@ -106,7 +109,7 @@
         <mark key="." line="82" column="19" />
         <mark key="^" line="82" column="19" />
       </file>
-      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531767630572">
+      <file name="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/services/data/eval/ConsolidationMethodMap.java" timestamp="1531779466053">
         <mark key="[" line="191" column="30" />
         <mark key="]" line="191" column="24" />
         <mark key="." line="191" column="24" />
@@ -234,8 +237,8 @@
       <jump line="103" column="25" filename="$USER_HOME$/Developer/planning/src/com/adaptiveplanning/accessregions/test/TestAccessRegionsPrintableView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnNpb25DYWNoZSA9IGdldFNweVZDV2l0aENNKHZlcnNpb25DYWNoZSwgMC44NWQsIDAuNTVkLCAwZCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -246,25 +249,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRG91YmxlIG5vbmVMb3dlckRlY2ltYWxMaW1pdDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>If there is any percentage in between 2 
-     * methods, we should execute the next consolidation method. So, if PROPORTIONAL is 
-     * 50%-74.999999999% and FULL is 75% - 100%, then 74.9999999999 will be considered FULL.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnNpb25DYWNoZSA9IGdldFNweVZDV2l0aENNKHZlcnNpb25DYWNoZSwgMC44NWQsIDAuNTVkLCAwZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>If there is any percentage in between 2 
+     * methods, we should execute the next consolidation method. So, if PROPORTIONAL is 
+     * 50%-74.999999999% and FULL is 75% - 100%, then 74.9999999999 will be considered FULL.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnVsbEhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gZnVsbExvd2VyRGVjaW1hbExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZS5GVUxMOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobm9uZUhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gbm9uZUhpZ2hlckRlY2ltYWxMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gQ29uc29saWRhdGlvbk1ldGhvZFR5cGUuTk9ORTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZnVsbEhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gZnVsbExvd2VyRGVjaW1hbExpbWl0KSB7CiAgICAgICAgICAgIHJldHVybiBDb25zb2xpZGF0aW9uTWV0aG9kVHlwZS5GVUxMOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm9uZUhpZ2hlckRlY2ltYWxMaW1pdCAhPSBudWxsICYmIGRlY2ltYWwgPD0gbm9uZUhpZ2hlckRlY2ltYWxMaW1pdCkgewogICAgICAgICAgICByZXR1cm4gQ29uc29saWRhdGlvbk1ldGhvZFR5cGUuTk9ORTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -276,7 +279,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGxlbiA9IGZhY3RvcnMubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>6891</text>
